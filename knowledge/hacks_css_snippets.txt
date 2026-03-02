@@ -1,0 +1,518 @@
+Title: CODES.CRD.CO
+
+URL Source: https://codes.crd.co/
+
+Markdown Content:
+CODES.CRD.CO
+===============
+
+CODES.crd.co
+------------
+
+ay im codin ova hea. **updated oct 20 2025**.added some rather simplistic link css to the [link stuff](https://codes.crd.co/#link) section, and removed the dead scrollbars i think i ended up losing the images for.**JUST JABBERING:** removed my cbox because i've been too busy to check it consistently. updates are going to be very sporadic, but hey, i'll try to drop stuff here on occasion.my links - [advice](https://codes.crd.co/#adbice) for html related questions, [helpful & fun links](https://codes.crd.co/#lonk) you can use for html/css which i particularly favor, and my [promo code](https://try.carrd.co/wojak), **WOJAK** !mycket snart öppnas portarna till en ny dimension.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Text stuff
+----------
+
+Text shadow
+
+`text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black, 0 0;`
+--------------------------------------------------------------------------------------
+
+Cooler text shadow
+
+`filter: drop-shadow(1px 1px 0 black) drop-shadow(-1px 1px 0 black) drop-shadow(0 2px 0 black) drop-shadow(0 -1px 0 black);`
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Text stroke + shadow
+
+`text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black, 0 0, 2px 2px 8px black;`
+------------------------------------------------------------------------------------------------------------------
+
+Text shadow w/ gradient
+
+`background: linear-gradient(red, black); -webkit-background-clip: text; -webkit-text-fill-color: transparent; -webkit-text-stroke: 1px black;`
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Shitty vertical text
+
+`writing-mode: vertical-rl; text-orientation: downwards;`
+-------------------------------------------------------------------------------
+
+Text stroke w/ selection border
+
+`filter: drop-shadow(0px 1px black) drop-shadow(0 -1px black) drop-shadow(1px 0 black) drop-shadow(-1px 0 black);`
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Fading text
+
+`filter: drop-shadow(0px 1px black) drop-shadow(0 -1px black) drop-shadow(1px 0 black) drop-shadow(-1px 0 black);`
+-------------------------------------------------------------------------------------------------------------------------------
+
+ok theres just a bunch of really awkward blank space down here so ill just show you what the shit above is supposed to actually look like
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+More drop shadow`filter: drop-shadow( 0 1px black) drop-shadow( 1px 0 black) drop-shadow( 0 -1px black) drop-shadow( -1px 0 black) drop-shadow( 0 2px white) drop-shadow( 2px 0 white) drop-shadow( 0 -2px white) drop-shadow( -2px 0 white) drop-shadow( 0 3px black) drop-shadow( 3px 0 black) drop-shadow( 0 -3px black) drop-shadow(-3px 0 black) drop-shadow(1px 1px 0 red) drop-shadow(-1px 1px 0 red);`
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+More[Tumblr wobble](https://pastebin.com/nfZS32Eu), [curved text](https://csswarp.eleqtriq.com/), [bouncy text](https://pastebin.com/0Ve5d04Z), [bouncy letters](https://pastebin.com/MNsPiUvq), [rainbow text](https://pastebin.com/hhx8rXs1), [glowing text](https://pastebin.com/8KpDmX17), [scramble text](https://pastebin.com/tqDaF5En), [marquee](https://docs.google.com/document/d/1GOXxgbipnniLjN6n6yCf8iGz8ENkvbZj2tB2Tft9cUc/edit), [marquee that pauses on hover](https://pastebin.com/dbrYNqui), [tooltip](https://docs.google.com/document/d/1oqoSoPawnjv0weMBNuCiCAWjEk4kWnROIvfpxJCOvyg/edit), [tooltip that follows cursor](https://pastebin.com/p5SzweEs), [custom text highlight](https://pastebin.com/pV2hzLUs), [marquee with wobbling text](https://pastebin.com/RwqwfRb0)Stuff kinsta went ape shit over in '21[popping text](https://docs.google.com/document/d/1Jiclp0a260tQQuQODqRiFSPlfY_LXVBoO6pB8tGu2Q0/edit), [horrible shaky text](https://pastebin.com/XLSnUseG), [floating text](https://pastebin.com/CLn0A0Du), [awful glitchy text](https://pastebin.com/XyBU77v0), bro just look at [MF2FM](http://www.mf2fm.com/rv/)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Scrollbars still a wip. Only visible on desktop :< apologies to those on mobile.**note:** you cant see/use any of these on firefox.also you can make your own [here](https://codepen.io/stephenpaton-tech/full/JjRvGmY). fun!
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ CR [chngmis](http://twitter.com/chngmis) on twitter :) [link](https://jsbin.com/nohozufaqu/edit?html,output)
+
+ ay boss putcha text here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here aaaand here. 
+
+ '84 mac scrollbar. [link](https://pastebin.com/mAvV2pjE)
+
+ text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
+
+CR [dakedres](https://dakedres.tumblr.com/) on tumblr! [link](https://pastebin.com/XFSaArxi)
+
+ ay boss putcha text here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here aaaand here. 
+
+dark windows 98 scrollbar. [link](https://pastebin.com/VxsN67pN)
+
+ ay boss putcha text here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here aaaand here. 
+
+CR [ps1](https://ps1.tumblr.com/) on tumblr! funey windows 98 scrollbar. [link](https://pastebin.com/7wSS23p5)
+
+ ay boss putcha text here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here aaaand here. 
+
+ Windows XP scrollbar :) [link](https://pastebin.com/WPw3AHyM)
+
+ ay boss putcha text here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here aaaand here.
+
+Log
+
+ Scroll bih
+----------------
+
+Recent updates
+--------------
+
+ whatever this is scrollbar. currently broken. [link](https://pastebin.com/DLuyf6Je)
+
+ text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
+
+DECEMBER 30 2022 - ok i give up on logs because i ju-- [(fart sound plays)](https://www.youtube.com/watch?v=60Al2L7vSv8)yeah i forgot to add an update to the log multiple times now so i give up DECEMBER 19 2022 - splattered a fresh coat of paint onto this nightmare of a carrd, added more shit
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Older updates
+-------------
+
+ '97 mac scrollbar. currently broken. [link](https://pastebin.com/kwRkB0Zq)
+
+ text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
+
+Red XP scrollbar. currently broken as well. truly hilarious. [Link](https://pastebin.com/VA938JGb)
+
+ ay boss putcha text here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here aaaand here. 
+
+NOVEMBER 29 2022 @ 7:03 AM - finished most of it. Finally unpriv'ing.... i guess. nvm the layouts ugly again
+
+ NOVEMBER 29 2022 @ 4:07 AM - restarted construction on this carrd Somewhere in early to mid november '22 - started working on this carrd but made the layout too complicated. Scrapped.Uhh... i got this url in... january of '22? either that or april. i have no fucking clue ok not jan or april nbecause thats when the codes.crd.co twf kys pic was still up. prob like july or something then
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 1](https://codes.crd.co/assets/images/image25.jpg?v=6b0a87fd)
+
+[Advice](https://codes.crd.co/#adbice)
+--------------------------------------
+
+[Helpful links](https://codes.crd.co/#lonk)
+-------------------------------------------
+
+[Promo code](https://try.carrd.co/wojak)
+----------------------------------------
+
+[About the admin](https://codes.crd.co/#guy)
+--------------------------------------------
+
+Pic stuff
+
+ So this page previously _had_ more than 4 examples but it caused terrible load issues both in the builder _and_ on the world wide web as a site i use. Rough stuff.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 2](https://codes.crd.co/assets/images/image04.jpg?v=6b0a87fd)
+
+`box-shadow:0 0 5px 5px red;`
+
+![Image 3](https://codes.crd.co/assets/images/heart.jpg?v=6b0a87fd)
+
+[Link](https://pastebin.com/rgHEbKtW)
+-------------------------------------
+
+![Image 4](https://codes.crd.co/assets/images/star.jpg?v=6b0a87fd)
+
+[Link](https://pastebin.com/NMdUs685)
+-------------------------------------
+
+![Image 5](https://codes.crd.co/assets/images/image11.jpg?v=6b0a87fd)
+
+`border: 1px solid black; box-shadow: 3px 3px black;`
+-----------------------------------------------------
+
+More[CLASSIC white lace border](https://pastebin.com/ZY6QXmBA), [Fun frilly pink lacy border](https://pastebin.com/Wga1fnBu), [desaturation on hover](https://pastebin.com/pce0Li5Z), [hue rotate on hover](https://pastebin.com/VZmhN5Du), [rainbow outline](https://pastebin.com/kt20fE9q), [image rotate on hover](https://pastebin.com/uMyBCsmT), [rainbow border](https://pastebin.com/LZKmdAgt), [triple outline](https://pastebin.com/8BEwtUBa), [normal outline](https://pastebin.com/iLhrKaf3)EXTRA![animations](https://codes.crd.co/#ani)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Link stuff
+----------
+
+[Float link](https://pastebin.com/cWpMdEF5)
+
+[Text shadow link](https://pastebin.com/WAiT7XJJ)
+
+[Squiggle link](https://pastebin.com/AVivw6Xw)
+
+[Spaced out link](https://pastebin.com/FYkWRnpk)
+
+[Scrunch link](https://pastebin.com/Wpjzzcb2)
+
+[Blur link](https://pastebin.com/5yXLz2QM)
+
+[bold text shadow link](https://pastebin.com/mUYjEew6)
+
+Admin's comments the squiggle link, for lack of a better term, is frustrating to customize and i entirely forgot how to do so... so an explanation on that will be put on the backburner for a little while longer
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tutorials[A crash course in learning _grid_](https://codes.crd.co/#grid)[How to center container divs](https://codes.crd.co/#cont)[Adding sound effects to images](https://codes.crd.co/#fart)
+
+ (pro plus only, ill write a tut for standard at some point)[Adding custom fonts to carrd](https://codes.crd.co/#import) (friendly to both pro plus & standard)[How do i do custom cursors please i need help](https://codes.crd.co/#curs)[Quick guide to tooltip (pc only)](https://codes.crd.co/#tip)[**MY MARQUEE IS TOO SLOW**](https://codes.crd.co/#mq)[adding sound effects to elements on hover/click](https://codes.crd.co/#soundeffect)**Warning**: im fresh ass at explaining but i swear im trying
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Learning grid and what is grid, you - who im sure hails from kinsta or kpop twitter - may ask?Grid is just a nice layout system you can use to position elements next to each other in a neat and orderly fashion, which is quite simple to boot - the only problem ive had with grid is misspelling its properties like a dumbass.Now then, ill get into the basics.1. Make a container div.
+
+ pretty simple stuff, but ill make it even simpler for you.
+
+ Paste `#cont { display: grid; grid-template-columns: 50% 50%; }` in between your <style>&</style> tags.
+
+ #cont is your selector which you will use in your html to contain the elements going into it!display: grid; is what makes the property below it work - you need this property & value to make the stuff below do what it needs to do.grid-template-columns: 50% 50%; is where the real magic happens - i used 2 values in my example to give you 2 columns, but you can add even more via adding more numbers. the numbers themselves define your individual columns' width, which can be defined however you please in _em_, _px_, _auto_, and whatever else width values you can think of.2. make your column divs.
+
+ you can make your columns share the same div (which ill be doing), but you can make them use different ones! now, onto my example.
+
+ Paste `#column { }` below #cont, still within your style tags. with your css knowledge, you can give your columns heights, borders, backgrounds, paddings, overflows, you name it!3. Enough talk, time for the html.
+
+ below your style tags and now within <body> and </body>, write your html.
+
+ I should probably challenge you with this, but im complete ass at explaining so i'll just paste the html here.
+
+ now, paste `<div id="cont"> <div id="column"></div> <div id="column"></div> </div>`
+
+ between your body tags, and youll have your ticket to the city. you now have your grid base which you can design however you like, and fill with whatever nonsense you can think of."but admin, how can i make my columns have a space between them? If i use a border they look like shit clumped together like that." Fear not, young student, for there is a property for that.
+
+`grid-gap: 5px;` is what youre looking for, but feel free to change that 5px to literally anything else. paste this into #cont.now, my apostle, make something real neat and clean with this knowledge i have bestowed upon you.My example is below - i used [W3Schools](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic) to test this out, which is also shown in the screenshot.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 6](https://codes.crd.co/assets/images/image09.jpg?v=6b0a87fd)
+
+Centering container divs Pretty easy stuff, just paste this into your container div's css.`margin: auto; position: absolute; top: 50%; left: 50%; transform: translateX(-50%) translateY(-50%);`This should be your result below.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 7](https://codes.crd.co/assets/images/image10.jpg?v=6b0a87fd)
+
+Misc stuff
+----------
+
+Box shadow cool fun border (weehee)
+
+`box-shadow:inset -1px -1px #0a0a0a,inset 1px 1px #dfdfdf,inset -2px -2px grey,inset 2px 2px #fff;`
+----------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 8](https://codes.crd.co/assets/images/image16.gif?v=6b0a87fd)
+
+box with pixel making it draggable (on pc). do whatever w this man. [link](https://pastebin.com/ZB7qAJUH)[Typing tab title](https://pastebin.com/rZ0ixrRJ)[Marquee tab title](https://pastebin.com/wqpm7SnG)
+
+ (^ ill add previews + a quick tutorial on these two soon) also if you have the bouncy tab title feel free to direct me to a pastebin/w3 link so i can slap it here too
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Scratch filter](https://pastebin.com/krk4eMXL) + [demo](https://codes.crd.co/#fe)
+
+**NOTE:**this doesnt look right on mobile[vhs text](https://pastebin.com/zFKWM3cy) + ["demo"](https://dl.dropbox.com/scl/fi/tjhtvsidy1clnnfa9ocq9/Photo-Jun-13-2025-12-00-40-5.gif?rlkey=xxnc6gaguosgkxmg4edw6gkvy&st=wpoqz1gk&)[flip card](https://codepen.io/edeesims/pen/wvpYWW) + ["demo"](https://dl.dropbox.com/scl/fi/m1d6uu8gbw1x9xmduand7/Photo-Jun-13-2025-12-17-06.gif?rlkey=yrj8ihe3vljskz4fwaimj0l2h&st=cquv3e13&) + [about](https://codes.crd.co/#flip)[flicker filter](https://pastebin.com/r7W7c9Hw) + ["demo"](https://dl.dropbox.com/scl/fi/ycdx18fw2sltbel1wkwid/Photo-Jun-13-2025-12-00-40-2.gif?rlkey=64e8v1df8ctfv8vop9qcqj422&st=yvdq6zbf&) + [quick guide](https://codes.crd.co/#flick)[flicker w cool text](https://pastebin.com/AjruyNgh) + ["demo"](https://dl.dropbox.com/scl/fi/gsvo6w3ay9lf7cxt185be/Photo-Jun-13-2025-12-00-40-3.gif?rlkey=0lv2qe3upcq3hfofts5b19v8h&st=3l5hohk1&) + [guide](https://codes.crd.co/#funey)[98.css](https://jdan.github.io/98.css/), [xp.css](https://botoxparty.github.io/XP.css/), and [7.css](https://khang-nd.github.io/7.css/)**Note: [7.css doesnt work on carrd](https://dl.dropbox.com/scl/fi/qyl3ejnnvcxvi7yvohy97/Photo-Jun-13-2025-12-00-40-4.gif?rlkey=8tlwvyz5sj40k4siixg2qyglg&st=hkwf6l6z&)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 9](https://codes.crd.co/assets/images/image17.gif?v=6b0a87fd)
+
+draggable (on pc) 98.css box - alternate link to the gif above [here](https://dl.dropbox.com/scl/fi/qrdr3hlllhhy72bl0t1yl/Photo-Jun-13-2025-12-00-40-1.gif?rlkey=sxg77v5wi6tj5giu0uw18qw5e&st=hsrywc8n&) because i wrote instructions in that thing and carrd crunched my shit up. [link](https://pastebin.com/UFWUWY72)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Chat
+
+ i still check here semi-regularly, so even if i don't reply, i read everything! :-D
+------------------------------------------------------------------------------------------
+
+Fonts
+
+ wip for now im bored
+----------------------------
+
+[Home](https://codes.crd.co/#home)[text](https://codes.crd.co/#text)[pix](https://codes.crd.co/#pic)[scrollbars](https://codes.crd.co/#scroll)[misc](https://codes.crd.co/#misc)[tutorials](https://codes.crd.co/toot) aaaaand [chat](https://codes.crd.co/#chat)
+
+Flip cards yeah this is for the people who can hold their own with html/css. i linked some random dudes version on codepen instead of the [pastebin](https://pastebin.com/LKM6jYFC) ver linked on [callie](https://web.archive.org/web/20230314165512/https://callie.crd.co/#flipcard) because for some reason, the pastebin ver wouldnt work for me.anyway the entire gimmick of this is to hover over, like, an image you can paste in, then itll flip over to whatever the fuck you want really.i made the back a wacky little about page because i was bored and wanted to do something i could add to this carrd. for my ""demo"", i used [grid](https://codes.crd.co/#grid), a little bit of absolute positioning for the feelsjak, a single marquee, a couple of spans and even a few hovery things because i like them. also the custom text selection you can find [here](https://pastebin.com/pV2hzLUs).idk i just thought this was rather neat because its essentially a catalyst for whatever you wanna make! aside from maybe fucking up the base html you shouldnt mess with, i doubt youll have too many problems with this one. base you can immediately start customizing [here](https://pastebin.com/8cg0vNbP).~~i'll get to writing a tutorial on this soon i swear~~
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Flicker effect/filter this is another thing for those who can easily write their own html/css. also, i tested this out via just pasting it in an embed on carrd and it works! go nuts bro anyway, just paste all your shit, artfully craft a container div, and make sure to write `<div id="wrapper">` before you do anything. close this tag with `</div>` and write whatever you're trying to make between these tags!you can also put `<div id="wrapper"></div>` before the rest of your html. it won't hurt anything. just put it wherever you'd like, as long as the div starts before anything else.NOTE: use this with a dark background.here's what your code should look like below.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*   ![Image 10: Untitled](https://codes.crd.co/assets/images/gallery01/ad4878a8.jpg?v=6b0a87fd)
+
+Flicker with cool text basically just follow the instructions youll find [here](https://codes.crd.co/#flick) but replace "wrapper" with "crt".here, ill make it even easier for you.`<div class="crt"> <!--your content goes here, whatever you put between these 2 div tags will be under an overlay effect and text will have like a warp effect i guess--> </div>`**NOTE:** use on a dark background. unlike in the instructions i linked, make sure to use "class" instead of "id".also, this is carrd friendly and should automatically convert text without strokes or shadows to the flickery fun shit.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Pooh's Adventures of ME Hello dear friend im the admin of this carrd hee haw what a joy not much to say about little ole me.... i like music, watching movies i dont like and getting mad at them, the occasional video game, bkah blah blah.carrd [here](http://ian.crd.co/)anyway theres a couple of things i made down below. i dont make much shit anymore so i dont have too many things to show off feel free to remake or take inspiration - just show me what you made because i think itd be neat! :-D
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*   [![Image 11: Untitled](https://codes.crd.co/assets/images/gallery02/0427398d.gif?v=6b0a87fd)](https://codes.crd.co/assets/images/gallery02/0427398d_original.gif?v=6b0a87fd)
+*   [![Image 12: Untitled](https://codes.crd.co/assets/images/gallery02/428e6d04.gif?v=6b0a87fd)](https://codes.crd.co/assets/images/gallery02/428e6d04_original.gif?v=6b0a87fd)
+*   [![Image 13: Untitled](https://codes.crd.co/assets/images/gallery02/b617b6b9.gif?v=6b0a87fd)](https://codes.crd.co/assets/images/gallery02/b617b6b9_original.gif?v=6b0a87fd)
+*   [![Image 14: Untitled](https://codes.crd.co/assets/images/gallery02/91eaa91e.gif?v=6b0a87fd)](https://codes.crd.co/assets/images/gallery02/91eaa91e_original.gif?v=6b0a87fd)
+*   [![Image 15: Untitled](https://codes.crd.co/assets/images/gallery02/6b61eaa1.gif?v=6b0a87fd)](https://codes.crd.co/assets/images/gallery02/6b61eaa1_original.gif?v=6b0a87fd)
+
+Music stuff
+
+ no live previews. anyway, below all this, ill write a quick guide on how to use your own songs
+------------------------------------------------------------------------------------------------------------
+
+![Image 16](https://codes.crd.co/assets/images/image12.gif?v=6b0a87fd)
+
+CR [ramdons](http://ramdons.tumblr.com/). [link](https://pastebin.com/VGDs7KqR)
+-------------------------------------------------------------------------------
+
+![Image 17](https://codes.crd.co/assets/images/image14.gif?v=6b0a87fd)
+
+CR [glenthemes](http://glenthemes.tumblr.com/). [link](https://pastebin.com/fs6ypY8v)
+-------------------------------------------------------------------------------------
+
+![Image 18](https://codes.crd.co/assets/images/image13.gif?v=6b0a87fd)
+
+CR [geeksforgeeks](https://www.geeksforgeeks.org/create-a-music-player-using-javascript/). [link](https://pastebin.com/tCPTHZGA)
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Image 19](https://codes.crd.co/assets/images/image15.gif?v=6b0a87fd)
+
+CR [powys](https://pastebin.com/u/powys) i believe. [link](https://pastebin.com/rx3B8kWk)
+-----------------------------------------------------------------------------------------
+
+Admin's comments yeah i got midway through this then saw someone on neocities has every music player to have ever existed listed there so im just gonna casually direct you to [scripted](https://scripted.neocities.org/) if none of these catch your eye.Guide its pretty simple to drop your own songs in here.`<audio id='musicsrc' loop src='put your shit here'></audio>` there you have it. just paste your link in between the apostrophes or quotation marks.in order to HOST the file you want in there, i recommend [dropbox](http://dropbox.com/) or [catbox](https://catbox.moe/) - once youve uploaded your file, click around for the link.if youre using **dropbox**, now you have to edit your link a bit, otherwise it wont work. hey, stay with me here.look at this link. `https://www.dropbox.com/s/9n6kg83z8nqdnm9/reverb.mp3?dl=0`okay, now remove the '**www**' and replace it with '**dl**', then remove the '**?dl=0**' tacked onto the end. your link should now look like this.`https://dl.dropbox.com/s/9n6kg83z8nqdnm9/reverb.mp3`also, no, i did not shamelessly plug my favorite song or whatever. its a link to a rather amusing fart sound that echoes.anyway, there you have it. simple as that.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Adding sound effects to images on click (pro plus only atm)
+-----------------------------------------------------------
+
+![Image 20](https://codes.crd.co/assets/images/image19.png?v=6b0a87fd)
+
+fun stuff. anyway now for the actual tutorial to start First things first - you need the link to your sound effect/song/whatever.
+
+ at the bottom of the [music](https://codes.crd.co/#musik) section i wrote a little tutorial on where to upload your files & what to do with the links! id kindly suggest you check it out if youre new to this kind of stuff.anyway, once you have your link looking like this
+
+`https://dl.dropbox.com/s/zcxcm788quzwjo2/sh2%20item%20pickup%20sound.mp3` with _"www"_ replaced with _"dl"_ and youve removed the _"dl=0"_ from the end of it, youre ready to go on ahead. catbox users dont need to worry about this step.paste
+
+`<audio id="sound" src="Dropbox Link Here" preload="auto"></audio>` into an embed and replace _"dropbox link here"_ with the link you have.now, add an image to your carrd.navigate to the settings of this image and click _events_.alright. now paste this into that text box.
+
+`document.getElementById('sound').play();`and youre done!you can add as many sound effects as you want to your carrd, all you need to do is replace the audio id ("sound" by default) with some other word and edit your events code snippet's 'sound' to whatever youve changed the audio id to.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Quick guide to tooltip (this only works on desktop - sorry mobilebros) **NOTE: REQUIRES HTML & EMBED USAGE**. finished on 6/30/2023 _what the fuck is tooltip?_ considering you should probably only be reading this if youre able to use it, hover over an application on the taskbar at the bottom of your computer screen. after a moment, the application's name will pop up within a white box. _that_, my friend, is tooltip._getting into the good stuff_ ok so for this im gonna be using [this](https://pastebin.com/p5SzweEs) snippet - it follows your cursor as it rakes over the respective element you slapped tooltip on, then disappears once you stop hovering over the element.in terms of customization, anything below _style and design_ is open season.ok now ive got that off my back lets get into the _technical shit_.most people just use tooltip for images, links and regular text that can be hovered over. i _had_ live previews for these examples but the javascript made my site load time super fucking bad... curious!
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+you can slap tooltip on just about any element in html. spans? sure. text customizers like _em_, **strong** and ~~strike~~? go for it. entire ass divs (like containers or whatever)? you got it bro.`<a href="#" data-toggle="tooltip" title="this is where you insert the tooltip text" class="">hey lois its peter if you need any extra help my cbox is always open</a>` is the format for adding tooltip to elements - <a> is just an example element you can wedge `data-toggle="tooltip" title="this is where you insert the tooltip text" class=""` right beside in the first tag.and thats that! i hope i didnt explain this too clumsily - i dont even know where ive been for the past month
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Importing custom fonts i feel like most carrders know this but i havent updated in a couple of days sooooooo here you go i guess**step one.** find your font
+
+ just scroll thru sites like [dafont](http://dafont.com/) and download whatever shit you want**step two.** upload that shit to dropbox/catbox. _like usual, any dropbox links need to have "WWW" changed to "DL" - and remove everything after ".TTF, .OTF or .WOFF"._**step three (pro plus).** make an inline embed in carrd and paste this into said embed
+
+`<style> @font-face { font-family: font name here; src: url(put your link in between these brackets); } </style>`
+
+ You can change "font name here" to anything really, it doesnt matter all that much. The only reason why you might want to make the font name more specific is if you're loading multiple fonts in and want to keep track of them.**step four (pro plus).** navigate to the text you want to slap your custom font on, select _settings_, go to _styles_, then paste `font-family: font name here;` into _text_. it should be at the top.
+
+ you should be good after doing this step.**step three (pro standard).** if you want everything on your carrd to be the same custom font, i gotcha.
+
+ replace the pasty shit above with `<style> body { font-family: font name here; } @font-face { font-family: font name here; src: url(put your link in between these brackets); } </style>` into your embed and everything on your carrd should be the same font.
+
+_note:_ if youre gonna change "font name here" to something else, make sure to change it everywhere instead of just in font-face because if you change it in just one spot it wont work.if you want _some_ text to just be that font instead of the whole ass carrd, just paste this into an embed.
+
+`<style> #txt { font-family: font name here; } @font-face { font-family: font name here; src: url(put your link in between these brackets); } </style> <div id="txt">ehehehe look lois im html in an embed on carrd</div>`
+
+ obviously replace the family guy bit with whatever you want your text to say._Note:_ where the embed here is placed matters because if you place it at the top of your builder your text is gonna be at the top of your page. if you want it in a container, place it exactly where you want the text in the container._"But admin! i cant customize my embedded text like i can in the regular carrd text styler, its just black text thats kinda small!"_ Look [over here](https://codes.crd.co/#css) for the absolute basics on customizing the text in "#txt".
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The most basic of CSS basics - text edition
+
+ this ones gonna be fun.you can only use one text-align value but anything else here is fair game. make your text as cool as possible.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+text-align: left;
+-----------------
+
+text-align: center;
+-------------------
+
+text-align: right;
+------------------
+
+background: lightblue;
+----------------------
+
+color: red;
+-----------
+
+border: 1px solid black;
+------------------------
+
+font-size: 1.5em;
+-----------------
+
+font-weight: bold;
+------------------
+
+font-style: italic;
+-------------------
+
+font-family: jokerman;
+----------------------
+
+Ext. these are just things i can think of off the top of my head - you can specify whatever color you want really, and you can also use hex codes + rgb.mess around with the size of your text too. the lower the value (like, say, 0.75em), the smaller your text will be. U can use px too!i believe by default your embedded text will be aligned to the left so if you want it aligned differently just fiddle around with the things i pasted up top.you can also slap anything from [text stuff](https://codes.crd.co/#text) in between "#txt"'s brackets, but i made this section for the most bare-bones of basics.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Advice[Quick link to choosing fonts and site color schemes here.](https://codes.crd.co/#wacky)_Should i get carrd pro standard or pro plus?_ Tbh id say you should only get plus if youve fallen down the html/css rabbit hole and also want as much convenience as possible - you can do some pretty neat shit with pro plus especially with utilizing markdown and basic css to make text **dope as hell** while not even using embeds. Fun stuff._How do you get into html/css?_ Personally i got into it because it looked fun and you can customize the absolute shit out of whatever you make so if that sounds appealing to you....... go for it I started _learning_ via [w3schools](http://w3schools.com/) and looking at their visual tutorials while completely ignoring the written guides as im a visual learner.Also as i said a while back, early on i started making my own shit via frankenstein-ing other peoples stuff and seeing what worked and what didnt work. Also [mozilla.org](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics) helped me a fuck ton and tbh i still use it when i need help!Theres no shame in not knowing how some things work and tbh i miss when i had no idea how to do ANYTHING so i just absolute positioned the hell out of everything i made.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Links If youre looking for ways to stylize your links, youre at the wrong page - [here](https://codes.crd.co/#link) is where you wanna go _Helpful html/css sites_
+
+[w3 tryit editor](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic)
+
+[w3schools as a whole actually](https://www.w3schools.com/)
+
+[developer.mozilla.org](https://developer.mozilla.org/en-US/)
+
+[lovespace carrd! U can find some really cool stuff here](http://lovespace.carrd.co/)
+
+[HTML basics carrd](http://htmlbasics.carrd.co/)
+
+[into HTML written by one of the old codes.crd admins](https://docs.google.com/document/d/13_uo6ZLadCMvIuOnEPoiM-XaQWy5WjkwSlaVtxLlOMY/mobilebasic)
+
+[HTML cheat sheet](https://htmlcheatsheet.com/)
+
+[CSS cheat sheet](https://htmlcheatsheet.com/css/)
+
+[CSS filter generator](https://cssgenerator.org/filter-css-generator.html)
+
+[CSS striped background generator](https://stripesgenerator.com/)
+
+[CSS gradient generator](https://www.css-gradient.com/)_Misc. sites and bookmarks_
+
+[ublock origin (best adblocker in the world)](https://ublockorigin.com/)
+
+[web archive](http://web.archive.org/)
+
+[follow that page (track site updates)](http://followthatpage.com/)
+
+[screentogif](https://www.screentogif.com/) (best application for gif recordings and ive used it for multiple years now)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Animations
+
+ (these can also be used on text but i cant imagine why youd want to use most of these like that)also i forgot to clarify these on display are for pro plus by default but if you replace ".weeble" or whatever with your image's id (like #image01) it should be all fine and dandy
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 21](https://codes.crd.co/assets/images/image21.gif?v=6b0a87fd)
+
+(Hover.) [Link](https://pastebin.com/5cHjRbQD)
+
+ quickly threw this one together for something i want to make
+-------------------------------------------------------------------------------------------------------------
+
+![Image 22](https://codes.crd.co/assets/images/image24.gif?v=6b0a87fd)
+
+(On site/section load.) [Link](https://pastebin.com/y1meavjM)
+-------------------------------------------------------------
+
+![Image 23](https://codes.crd.co/assets/images/image23.gif?v=6b0a87fd)
+
+On site/section load. [link](https://pastebin.com/vBVBUrsD)
+-----------------------------------------------------------
+
+![Image 24](https://codes.crd.co/assets/images/image22.gif?v=6b0a87fd)
+
+On site/section load. [link](https://pastebin.com/r6uV64a7)
+-----------------------------------------------------------
+
+More i did not want to display because youve already seen them a million times and some look AWFUL[Floating image](https://pastebin.com/ygqpafAD), [shaky image](https://pastebin.com/Y3aza7iv), ["popping" (...?) image](https://docs.google.com/document/d/1Jiclp0a260tQQuQODqRiFSPlfY_LXVBoO6pB8tGu2Q0/edit), [goofy rotating image](https://pastebin.com/pFSk07Li), [glitchy ugly image](https://#https://pastebin.com/SK4VSFEN), aaaand [image just eternally spinning around](https://pastebin.com/jVJLzEk9)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Adding custom cursors to carrd or html desktop only btw well this ones pretty simple id say.look at this css snippet.`<style> html, a, a:hover { cursor: url(https://64.media.tumblr.com/fa5e0737f465ad2f7c591df98c0496e0/e421920703343e33-44/s2048x3072/35f8e0a121325b0901b4aa09abb03df9ae721082.png), auto; } </style>`by default its a knife but if you replace the unfeasibly long link wedged in between the parentheses with whatever you want your cursor to be (though you kinda need to upload your png somewhere like discord, catbox or dropbox), youll have whatever you want really.if you dont want to make like a hamburger cursor or some bullshit like that and instead just want the funny question mark thing that pops up on links and shit, here you go.`<style> a:hover { cursor: help; } </style>`theres other cursors like the question mark that dont require a link to an image and simply require whichever word that will specify them. heres a [link](https://developer.mozilla.org/en-US/docs/Web/CSS/cursor) to a list._also_ you can go look at [cursors-4u](https://www.cursors-4u.com/) to find a real zinger custom cursor. if youre on carrd, use the universal css/html code you see pasted above the stylesheet code.if you have access to a stylesheet, well... im sure you know what to do.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Nothing much, you?
+------------------
+
+maybe its for the best if you dont use fancy ass fonts that are hard to read in your actual site content because they usually look like shit when theyre not just used for like your name or whatever AND clutter your content up. when choosing a main font for your site, _please_ choose one that is easy to read.
+
+ same goes for choosing the color scheme of your site, because lets be real, pink so light it looks like the water that drips off watermelon against white looks like shit and is virtually unreadable.
+
+Bookmarks
+
+ misc. resources you might find fun or helpful.
+
+ i have another page with a similar purpose [here](https://codes.crd.co/#lonk)! it has more simple html/css resources, but this page exists so i can clear out my chrome tabs... i have over eighty open as i type this... please help me.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**semi-html related**
+
+[css clip-path generator](https://bennettfeely.com/clippy/)
+
+[fontawesome](https://fontawesome.com/)
+
+[google material icons](https://fonts.google.com/icons)
+
+[iconsax](https://app.iconsax.io/)
+
+[solar icons](https://solar-icons.gitlab.io/i/icons-list#)
+
+[css transform generator](https://www.shecodes.io/css_generators/css-transform-generator)
+
+[petrapixel's layout builder](https://petrapixel.neocities.org/coding/layout-generator)
+
+[sadgrl's resources](https://sadgrl.online/resources/)
+
+[loveberry's resources](https://loveberry.nekoweb.org/links)
+
+[hillhouse's code snippets](https://hillhouse.neocities.org/materials/snippets/)
+
+[prismatic-realm's links](https://prismatic-realm.net/links)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**unrel**
+
+[dither it!](https://ditherit.com/)
+
+[lorem ipsum](https://www.lipsum.com/)
+
+[88x31 button maker](https://codepen.io/sadness97/full/YPXMmve)
+
+[cavalierfou's free editing resources](https://www.deviantart.com/cavalierfou/gallery/70361890/free-resources)
+
+[assorted graphic design/ps resources](https://dailyresources.tumblr.com/post/729235603599835136)
+
+[coolors—generate color palettes](https://coolors.co/)
+
+[holy grail of editing AND html resources](https://dailyresources.tumblr.com/navi)
+
+[cobalt](https://cobalt.tools/)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+How to change marquee speeds And no, im not talking about [Marquee Moon](https://m.youtube.com/watch?v=jlbunmCbTBA) by the American rock band _Television_. Im talkibg about fun text that moves across your screen.Alright so heres your html snippet
+
+`<marquee behavior="scroll" direction="left" scrollamount="15"> That's an insult to the PEZ community. </marquee>`Check out the _scrollamount="15"_ bit. This ones easy as fuck: replace that 15 with a higher number if you want it to be so fast you probably cant even read it. I think the default speed without defining a speed is ... 10?Here let me dumb it down for you like crazy.Higher number than 10 = faster than default speed Lower number than 10 = slower than default speed WANT IT EVEN MORE DUMBED DOWN? I feel like im in a tim and eric skit but here we go.Bigger number = faster Smaller number = slower**SO THERE YOU GO!** also the text in that snippet is from what is probably my favorite scene from [_Pawn Stars_](https://m.youtube.com/watch?v=D6ISzMyExn4). I need to bring back the embedded corner video on desktop for that one
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+adding sound effects to elements on hover/on click i had to pilfer an archived resource carrd for such sacred information, so in order for you to not need to do the same, i'll do a quick writeup here.all credits go to [jellymask](https://web.archive.org/web/20220302113800/https://jellymask.carrd.co/#soundeffect), but i won't just paste what she wrote because i'd feel pretty scummy. the link takes a while to load as it's from the web archive.**PREAMBLE:** slap [this code](https://pastebin.com/hDeVc2CU) into an embed. if you go the pro plus route, you can't use sound effects on hover.**PRO PLUS:** go to an element you'd like to play a sound when clicked. click on the element's settings, navigate to the "events" tab, then paste `clicksound.playclip();` into the box below **on click**.NOTE: it seems only image elements support the on click event, so with other elements, so, say, text, you'll have to write html. use this on any element you'd like—the world's your oyster!**HTML:**~~assuming you're still on carrd, make an embed, create the desired element, and~~ paste `onmouseover="mouseoversound.playclip()" onclick="clicksound.playclip()` before closing your element's opening tag. here's an example.`<div onmouseover="mouseoversound.playclip()" onclick="clicksound.playclip()">hover/click me!</div>`...and there you have it!_how do i customize my sounds?_ simple! upload your desired sound(s) to a file hosting site like dropbox or catbox, grab the link, then replace the original links found at the bottom of the script with your own. **please note that if you're using dropbox, you'll have to edit your link to make it work. look [here](https://codes.crd.co/#musik), at the bottom, for a quick guide.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Home](https://codes.crd.co/#home), [text stuff](https://codes.crd.co/#text), [pic stuff](https://codes.crd.co/#pic), [link stuff](https://codes.crd.co/#link), [scrollbars](https://codes.crd.co/#scroll), [misc stuff](https://codes.crd.co/#misc), [music stuff](https://codes.crd.co/#musik), [tutorials](https://codes.crd.co/#toot), [bookmarks](https://codes.crd.co/#junk)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 25](https://codes.crd.co/)

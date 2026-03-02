@@ -1,0 +1,29 @@
+Title: Embedding Custom Code - Building - Documentation
+
+URL Source: https://carrd.co/docs/building/embedding-custom-code
+
+Markdown Content:
+*   [Documentation](https://carrd.co/docs)
+*   [Building](https://carrd.co/docs/building)
+
+Requires [Pro Standard](https://carrd.co/docs/pro/plans#pro-standard) or higher
+
+The **Embed** element allows you to insert custom HTML, CSS, and even Javascript code practically anywhere on a site (including its `<head>` element). If you need to add a third-party widget not yet supported by the [Widget](https://carrd.co/docs/building/adding-widgets) element, or if you simply want to incorporate custom features beyond what Carrd currently offers, here's how to do it:
+
+1.   Click **Add Element**
+
+2.   Click **Embed** to create a new **Embed** element.
+
+3.   Set **Type** to **Code**.
+
+4.   Set **Code** to the custom code you'd like to insert. This can be practically _anything_ you'd normally paste into a site's HTML, so standard-issue HTML, `<style>` tags containing custom CSS rules, and even `<script>` tags containing Javascript code are all acceptable here.
+
+5.   (Optional) Set **Label** to something that helps identify this particular embed (eg. **My Widget Code**).
+
+6.   Choose the embed's **Style**:
+
+    *   **Inline** to insert your code _exactly_ where the embed appears on the site (just like any other element).
+
+    *   **Hidden** to insert your code in one of three specific locations: **Head** for the site's `<head>` element, **Body Top** for just after the site's opening `<body>` tag, or **Body End** for just before the site's closing `</body>` tag. Since this effectively publishes the embed _outside_ the normal element flow, feel free to move it somewhere more convenient (to the very end of the site, for example).
+
+7.   **You're done!** Your custom code should now be visible on the published site. Note that the embed element will **not** actually output anything in the builder so you'll need to publish the site to see it in action.

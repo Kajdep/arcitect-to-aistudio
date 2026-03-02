@@ -11,7 +11,18 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        charcoal: {
+          900: "#0f1115",
+          800: "#161b22",
+          700: "#21262d",
+        },
+        neon: {
+          blue: "#00f0ff",
+        },
       },
+      fontFamily: {
+        sans: ['var(--font-inter)', 'sans-serif'],
+      }
     },
   },
   plugins: [],

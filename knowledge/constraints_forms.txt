@@ -1,0 +1,16 @@
+Title: Forms - Documentation - Carrd
+
+URL Source: https://carrd.co/docs/forms
+
+Markdown Content:
+*   [Documentation](https://carrd.co/docs)
+
+Forms
+-----
+
+*   [Setting up a Contact Form ------------------------- Allow visitors to send feedback via email](https://carrd.co/docs/forms/setting-up-a-contact-form)
+*   [Setting up a Signup Form ------------------------ Capture emails to Mailchimp, Sendy, and more](https://carrd.co/docs/forms/setting-up-a-signup-form)
+*   [Setting up a Custom Form ------------------------ Build a custom form with any combination of fields](https://carrd.co/docs/forms/setting-up-a-custom-form)
+*   [Setting up a Payment-Enabled Form --------------------------------- Enable Stripe payments on any form](https://carrd.co/docs/forms/setting-up-payments)
+*   [Protecting Forms from Spam and Bots ----------------------------------- Protect forms from spam and bots](https://carrd.co/docs/forms/protecting-forms-from-spam-and-bots)
+*   [Troubleshooting --------------- Common form issues and solutions](https://carrd.co/docs/forms/troubleshooting)

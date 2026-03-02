@@ -1,0 +1,1190 @@
+Title: Jason's Plugins For Carrd
+
+URL Source: https://plugins.carrd.co/
+
+Markdown Content:
+Plugins, widgets, scripts to
+
+power up your Carrd sites
+-------------------------------------------------------
+
+*   [See plugins](https://plugins.carrd.co/#filters)
+
+🔍 New plugin! Add that familiar [magnifying glass effect](https://plugins.carrd.co/#imagemagnifyingglass) to your product images.
+
+[![Image 1: Profile picture of @markbowley](https://plugins.carrd.co/assets/images/image25.jpg?v=00c17393)](https://twitter.com/markbowley/status/1686709407906701312)
+
+"I love the plugins @jasonleowsg's creating for @carrd — today I had a bit of fun adapting his image carousel for words, for my @starrt_co site 😀" – [@markbowley](https://twitter.com/markbowley/status/1686709407906701312)
+
+Extend your Carrd sites
+-----------------------
+
+Call them plugins, widgets, components, or scripts – these custom code snippets extend your Carrd sites to do more. We're fans of Carrd and love making plugins to power up our Carrd sites.☝️ This is a fan project and is **not officially affiliated** to Carrd (the company) in any way.⚠️ You will need a Carrd Pro Standard subscription or above (with the Embed element) to use these plugins.
+
+Click on the tags to scroll directly to the plugin
+
+*   [🗂 Accordion](https://plugins.carrd.co/#accordion)
+*   [💵 Pricing tables](https://plugins.carrd.co/#pricingtables)
+*   [🚦 Navbar](https://plugins.carrd.co/#navbar)
+*   [📱 Mobile navbar pro](https://plugins.carrd.co/#mobilenavbarpro)
+*   [🗺 Mega navbar](https://plugins.carrd.co/#meganavbar)
+*   [⬆️ Scroll-to-top](https://plugins.carrd.co/#scrolltotop)
+*   [📂 Accordion lite](https://plugins.carrd.co/#accordion2)
+*   [📣 Testimonial slider](https://plugins.carrd.co/#testimonialslider)
+*   [🏗 Develop your own custom plugin](https://plugins.carrd.co/#customplugin)
+*   [📰 Listings](https://plugins.carrd.co/#listingscarrd)
+*   [📹 Welcome video](https://plugins.carrd.co/#floatingbuttonwelcomevideo)
+*   [🎥 Video button](https://plugins.carrd.co/#videobutton)
+*   [🎞 Autoplay video](https://plugins.carrd.co/#autoplayvideo)
+*   [🗯 Text popup](https://plugins.carrd.co/#textpopup)
+*   [🎉 Confetti](https://plugins.carrd.co/#confetti)
+*   [🚥 Gradient text](https://plugins.carrd.co/#gradienttext)
+*   [🌈 Gradient buttons](https://plugins.carrd.co/#animatedgradientbuttons)
+*   [🎮 Interative background](https://plugins.carrd.co/#interactivebackground)
+*   [📦 Startup bundle](https://plugins.carrd.co/#startupbundle)
+*   [❄️ Snow confetti](https://plugins.carrd.co/#snowconfetti)
+*   [📅 Copyright year](https://plugins.carrd.co/#copyrightyear)
+*   [🐦 Testimonial tweets](https://plugins.carrd.co/#testimonialtweets)
+*   [🔐 Password section](https://plugins.carrd.co/#passwordsection)
+*   [🎪 Carousel slider](https://plugins.carrd.co/#carouselslider)
+*   [💈 Logo carousel](https://plugins.carrd.co/#logocarousel)
+*   [🌗 Dark mode](https://plugins.carrd.co/#darkmode)
+*   [🔂 Marquee](https://plugins.carrd.co/#marquee)
+*   [🖼 Bg image sections](https://plugins.carrd.co/#backgroundimagesections)
+*   [🎰 Randomizer](https://plugins.carrd.co/#randomizer)
+*   [⌨️ Typewriter text](https://plugins.carrd.co/#typewritertext)
+*   [🗞 Roll up text](https://plugins.carrd.co/#rolluptextanimation)
+*   [📋 Copy to clipboard](https://plugins.carrd.co/#copytoclipboardbutton)
+*   [⏰ Timeline](https://plugins.carrd.co/#timeline)
+*   [📼 Bg video sections](https://plugins.carrd.co/#backgroundvideosections)
+*   [🎲 A/B testing](https://plugins.carrd.co/#abtesting)
+*   [🔀 Redirect plugin](https://plugins.carrd.co/#redirectplugin)
+*   [🌐 Translate](https://plugins.carrd.co/#translate)
+*   [⏳ Auto-update age](https://plugins.carrd.co/#autoupdateage)
+*   [🦄 Custom icon](https://plugins.carrd.co/#customicon)
+*   [🔊 Audio player](https://plugins.carrd.co/#customaudioplayer)
+*   [🍿Scroll to popup](https://plugins.carrd.co/#scrolltopopup)
+*   [🍭 Custom loader](https://plugins.carrd.co/#customloader)
+*   [⤴️ In-app redirect](https://plugins.carrd.co/#inappredirect)
+*   [🎆 Fireworks](https://plugins.carrd.co/#fireworks)
+*   [📝 Blog plugin](https://plugins.carrd.co/#blogplugin)
+*   [🧮 Commission calc](https://plugins.carrd.co/#commissioncalculator)
+*   [🗄 Sheet-to-table](https://plugins.carrd.co/#sheet2table)
+*   [🔣 Glitch text](https://plugins.carrd.co/#glitchtext)
+*   [📄 Embed PDFs](https://plugins.carrd.co/#embedpdf)
+*   [🎛 Custom button icon](https://plugins.carrd.co/#custombuttonicon)
+*   [📇 Custom fonts](https://plugins.carrd.co/#customfonts)
+*   [🍾 Native Popup](https://plugins.carrd.co/#nativepopup)
+*   [📽 Video slider](https://plugins.carrd.co/#videoslider)
+*   [🎟 Top banner](https://plugins.carrd.co/#topbanner)
+*   [📷 Webp images](https://plugins.carrd.co/#webpimages)
+*   [🔍 Image magnifying](https://plugins.carrd.co/#imagemagnifyingglass)
+
+![Image 2: Screen recording of animated accordion FAQs drop-down Carrd plugin](https://plugins.carrd.co/assets/images/image10.gif?v=00c17393)
+
+*   FREE
+
+### Animated accordion FAQs drop-down
+
+A Carrd plugin for an app landing page with accordion FAQ drop-downs and bounce web animation.
+
+*   [View demo](https://animatedaccordionfaqs.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/c56cb64c81668f6e)
+
+🚨 You'll need to be on at least the Pro Standard plan (with embeds feature) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+*   FREE
+
+### Pricing tables
+
+A Carrd plugin for pricing tables with hover effects.
+
+*   [View demo](https://pricingtables.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/ca5b8216d1184ad0)
+
+🚨 You'll need to be on at least the Pro Standard plan (with embeds feature) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+![Image 3: Screen recording of pricing tables Carrd plugin](https://plugins.carrd.co/assets/images/image01.gif?v=00c17393)
+
+![Image 4: Screen recording of responsive mobile navbar Carrd plugin](https://plugins.carrd.co/assets/images/image11.gif?v=00c17393)
+
+*   PAID
+
+### Responsive mobile navbar
+
+A Carrd plugin for a responsive mobile navigation bar. A normal navbar menu on desktop that collapses into a hamburger menu on mobile. All custom code.
+
+*   [View demo](https://navbar.carrd.co/)
+
+* * *
+
+Buy this plugin now at $15.
+
+*   [BUY NOW](https://payhip.com/b/zsavY/)
+
+🚨You'll need to be on at least the Pro Standard plan (with embeds feature) to use this plugin. Upon payment, you will receive a .txt file with the code for the navbar. Copy and paste the code from downloaded file directly into an embed element in your Carrd site. Tutorial walk-through PDF guide included. Single license (original price) = $15. Unlimited license (original price) = $150.
+
+*   FREEMIUM
+
+### Mobile navbar pro
+
+A freemium responsive navbar template that works on both mobile and desktop, made using mostly native Carrd elements.Some custom code are added only for toggling the display of the mobile nav menu – that means you can still edit/style your nav menu as per normal using the Carrd editor.Download the free version (with less features) to give it a try before deciding!
+
+*   [View demo](https://mobilenavbarpro.carrd.co/)
+*   [Try free version](https://mobilenavbar.carrd.co/)
+
+* * *
+
+Buy this plugin now at $30 $15.
+
+*   [BUY NOW](https://carrd.co/buy/d9d614047be91966)
+
+🚨You'll need to be on at least the Pro Plus plan (with embeds feature) to use this plugin. Upon payment, you will receive Carrd template. Tutorial walk-through guide included. Single license (original price) = $15. Unlimited license (original price) = $150.
+
+![Image 5: Screen recording of mobile navbar pro Carrd plugin](https://plugins.carrd.co/assets/images/image28.gif?v=00c17393)
+
+![Image 6: Screen recording of responsive mega navbar Carrd plugin](https://plugins.carrd.co/assets/images/image15.gif?v=00c17393)
+
+*   PAID
+
+### Responsive mega navbar
+
+A Carrd plugin for a responsive mega navigation bar. A navbar menu that is 3 levels deep of menu options, and collapses into a hamburger menu on mobile.
+
+*   [View demo](https://meganavbar.carrd.co/)
+
+* * *
+
+Buy this plugin now at $30.
+
+*   [BUY NOW](https://payhip.com/b/bZNJS/)
+
+🚨You'll need to be on at least the Pro Standard plan (with embeds feature) to use this plugin. Upon payment, you will receive a .txt file with the code for the navbar. Copy and paste the code from downloaded file directly into an embed element in your Carrd site. Tutorial walk-through PDF guide included. Single license (original price) = $30. Unlimited license (original price) = $300.
+
+What people are saying
+
+[](https://twitter.com/CSMikeCardona/status/1472840258156855296)
+![Image 7: Profile picture of @CSMikeCardona Twitter account](https://plugins.carrd.co/assets/images/image06.jpg)
+
+Mike Cardona {Automation Alchemist}
+
+@CSMikeCardona
+
+Replying to @jasonleowsg
+
+love your Carrd plugins 😍
+
+[4:04 PM · Dec 20, 2021](https://twitter.com/CSMikeCardona/status/1472840258156855296)
+
+[](https://twitter.com/JannisBetschki/status/1595473124581163010)
+![Image 8: Profile picture of @JannisBetschki Twitter account](https://plugins.carrd.co/assets/images/image65.jpg)
+
+Jannis Fedoruk-Betschki 🧙
+
+@JannisBetschki
+
+Jason has been a huge inspiration to me when I did my first Carrd template
+
+His plugins make Carrd website more functional – and easier to use!
+
+If you're looking to build a Carrd time soon, check out this Black Friday deal 👇
+
+[https://t.co/9HMZlWu0nP](https://t.co/9HMZlWu0nP)
+
+[1:43 AM · Nov 24, 2021](https://twitter.com/JannisBetschki/status/1595473124581163010)
+
+[](https://twitter.com/christinetrac1/status/1495951816580034561)
+![Image 9: Profile picture of @christinetrac1 Twitter account](https://plugins.carrd.co/assets/images/image03.jpg)
+
+Christine Trac🦖
+
+@christinetrac1
+
+Replying to @colinyjchung @carrd and @ajlkn
+
+113% agree with you!
+
+My friend [@jasonleowsg](https://twitter.com/jasonleowsg) also makes free and paid plugins for Carrd sites.
+
+[plugins.carrd.co](https://plugins.carrd.co/) A nice addition to making Carrd even more powerful!
+
+[10:41 AM · Feb 22, 2022](https://twitter.com/christinetrac1/status/1495951816580034561)
+
+[](https://twitter.com/markbowley/status/1686709407906701312)
+![Image 10: Profile picture of @markbowley Twitter account](https://plugins.carrd.co/assets/images/image40.jpg)
+
+Mark Bowley
+
+@markbowley
+
+I love the plugins @jasonleowsg's creating for @carrd — today I had a bit of fun adapting his image carousel for words, for my @starrt_co site 😀
+
+[8:03 PM · Aug 2, 2023](https://twitter.com/markbowley/status/1686709407906701312)
+
+[](https://twitter.com/jonkrywicki/status/1682670712916672512)
+![Image 11: Profile picture of @jonkrywicki Twitter account](https://plugins.carrd.co/assets/images/image07.jpg)
+
+Jonathan Krywicki
+
+@jonkrywicki
+
+@jasonleowsg thanks for all your amazing help with the meganavbar @carrd plugin - appreciate you going above and beyond to help me out.
+
+[4:35 PM · Jul 22, 2023](https://twitter.com/jonkrywicki/status/1682670712916672512)
+
+![Image 12: Screen recording of scroll-to-top floating button Carrd plugin](https://plugins.carrd.co/assets/images/image08.gif?v=00c17393)
+
+*   FREE
+
+### Scroll-to-top button
+
+A scroll-to-top floating button, especially useful for long-scrolling Carrd sites on desktop.[Update:] Version 2 uses only native Carrd elements and some custom CSS style.
+
+*   [View demo 1](https://scrolltotop.carrd.co/)
+*   [View demo 2](https://scrolltotopnative.carrd.co/)
+
+**Demo 1** is a HTML floating button – all custom code, and more customizability for button styles. You copy-paste the code into an Embed element to create it. Requires Pro Standard plan or above.
+
+**Demo 2** is a native Carrd button with some custom CSS for positioning – no need to fiddle with code, and you can edit style of the floating button using Carrd editor. Requires Pro Plus plan.
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD v1](https://carrd.co/buy/d41660de388c316b)
+*   [DOWNLOAD v2](https://carrd.co/buy/1fdd1feccd464476)
+
+🚨 You'll need to be on at least the Pro Standard plan to access the v1 template. For the v2 template, you'll need to be on Pro Plus plan. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+*   FREE
+
+### Accordion FAQs drop-down
+
+Our 2nd variant of the popular accordion menu Carrd plugin. This time, the design is light and minimal with animated chevron icons.
+
+*   [View demo](https://accordionfaqs.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/d18fd51b0ac6646a)
+
+🚨 You'll need to be on at least the Pro Standard plan (with embeds feature) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+![Image 13: Screen recording of accordion FAQs drop-down Carrd plugin](https://plugins.carrd.co/assets/images/image17.gif?v=00c17393)
+
+![Image 14: Screen recording of testimonial slider Carrd plugin](https://plugins.carrd.co/assets/images/image20.gif?v=00c17393)
+
+*   PAID
+
+### Testimonial slider
+
+A simple, responsive slider for customer testimonials.
+
+*   [View demo](https://testimonial.carrd.co/)
+
+* * *
+
+Buy this plugin now at $15.
+
+*   [BUY NOW](https://payhip.com/b/bnJmi/)
+
+🚨You'll need to be on at least the Pro Standard plan (with embeds feature) to use this plugin. Upon payment, you will receive a .txt file with the code for the plugin. Copy and paste the code from downloaded file directly into an embed element in your Carrd site. Tutorial walk-through PDF guide included. Single license (original price) = $15. Unlimited license (original price) = $150.
+
+🏗 Custom plugin development
+
+Contact us if you require a developer to code a custom plugin for your Carrd site. Prices start from $999 for simple plugins.
+
+*   [Email us](mailto:pluginsforcarrd@gmail.com)
+
+*   [Copy email](https://plugins.carrd.co/#)
+
+*   PAID
+
+### Listings with filters & search
+
+A Nomadlist-style card listings plugin for Carrd sites. Comes with filter tags and a search bar.
+
+*   [View demo](https://listingwithfilters.carrd.co/)
+
+* * *
+
+Buy this plugin now at $30.
+
+*   [BUY NOW](https://payhip.com/b/ycE20/)
+
+🚨You'll need to be on at least the Pro Standard plan (with embeds feature) to use this plugin. Upon payment, you will receive a .txt file with the code for the plugin. Copy and paste the code from downloaded file directly into an embed element in your Carrd site. Tutorial walk-through PDF guide included. Single license (original price) = $30. Unlimited license (original price) = $300.
+
+![Image 15: Screen recording of listings with filters & search Carrd plugin](https://plugins.carrd.co/assets/images/image18.gif?v=00c17393)
+
+![Image 16: Screen recording of floating button welcome video Carrd plugin](https://plugins.carrd.co/assets/images/image29.gif?v=00c17393)
+
+*   PAID
+
+### Floating button welcome video
+
+A Carrd plugin for a floating button on the bottom right of your Carrd site. When clicked, it triggers a welcome video pop-up modal to welcome visitors to your site. You can embed the welcome video via YouTube.
+
+*   [View demo](https://floatingwelcomevideo.carrd.co/)
+
+* * *
+
+Buy this plugin now at $15.
+
+*   [BUY NOW](https://payhip.com/b/OEIxg/)
+
+🚨You'll need to be on at least the Pro Standard plan (with embeds feature) to use this plugin. Upon payment, you will receive a .txt file with the code for the plugin. Copy and paste the code from downloaded file directly into an embed element in your Carrd site. Tutorial walk-through PDF guide included. Single license (original price) = $15. Unlimited license (original price) = $150.
+
+*   PAID
+
+### Video button
+
+A plugin that allows a native Carrd element (button/image) to trigger a video popup modal in your Carrd site.When you click on the button or image, it triggers a video pop-up modal to show your selected Youtube video to visitors to your site.
+
+*   [View demo](https://videobutton.carrd.co/)
+
+* * *
+
+Buy this plugin now at $30.
+
+*   [BUY NOW](https://payhip.com/b/zxoQB/)
+
+🚨You'll need to be on at least the Pro Plus plan (with embeds feature) to use this plugin. Upon payment, you will receive a .txt file with the code for the plugin. Copy and paste the code from downloaded file directly into an embed element in your Carrd site. Tutorial walk-through PDF guide included. Single license (original price) = $30. Unlimited license (original price) = $300.
+
+![Image 17: Screen recording of video button Carrd plugin](https://plugins.carrd.co/assets/images/image27.gif?v=00c17393)
+
+![Image 18: Screen recording of autoplay video plugin on Carrd](https://plugins.carrd.co/assets/images/image13.gif?v=00c17393)
+
+*   FREE
+
+### Autoplay video on mobile
+
+A Carrd plugin for autoplaying Youtube videos on mobile.Context: Youtube prevents autoplay on mobile to prevent unsolicited downloads over cellular networks at the user's expense. This code allows you to circumvent that - please use for non-evil purposes!
+
+*   [View demo](https://autoplay.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/0af4ccfbce6b352e)
+
+🚨 You'll need to be on at least the Pro Standard plan (with embeds feature) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+*   FREE
+
+### Text popup modal
+
+A free Carrd plugin template for a text-based popup modal.
+
+*   [View demo](https://textpopup.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/87a10a1247016ef1)
+
+🚨 You'll need to be on at least the Pro Plus plan (with embeds feature) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+![Image 19: Screen recording of text popup modal plugin in Carrd](https://plugins.carrd.co/assets/images/image14.gif?v=00c17393)
+
+![Image 20: Screen recording of confetti button Carrd plugin](https://plugins.carrd.co/assets/images/image21.gif?v=00c17393)
+
+*   FREE
+
+### Confetti button
+
+Click the button and you get confetti. 🎉[Update:] Version 2 includes star confetti, and ability to spray confetti via a native Carrd button! (Requires Pro Plus plan)
+
+*   [View demo 1](https://confettibutton.carrd.co/)
+*   [View demo 2](https://confettibutton2.carrd.co/)
+
+**Demo 1** is a HTML button with confetti effect – all code, and more customizability for button styles. Requires Pro Standard plan or above.
+
+**Demo 2** is a native Carrd button with confetti and star burst effect – no need to fiddle with code, and you can edit style of the button using Carrd editor. Requires Pro Plus plan.
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD v1](https://carrd.co/buy/e6f49ceb9169d261)
+*   [DOWNLOAD v2](https://carrd.co/buy/69d2a3a54f61ef5e)
+
+🚨 You'll need to be on at least the Pro Standard plan (with embeds feature) to access the v1 template. For the v2 template, you'll need to be on Pro Plus. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+*   FREE
+
+### Gradient text
+
+Carrd already allows for gradient text. But you can only apply gradient to the entire text element, not selected words within the text element. This plugin template allows you to get the gradient effect for single words.
+
+*   [View demo](https://gradienttext.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/4960b1d927012364)
+
+🚨 You'll need to be on the Pro Plus plan (with embeds feature) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.For a Pro Standard-compatible template, [download it here](https://carrd.co/buy/a5dca5f178e6da7e).
+
+![Image 21: Screen recording of gradient text Carrd plugin](https://plugins.carrd.co/assets/images/image19.jpg?v=00c17393)
+
+![Image 22: Screen recording of animated gradient buttons on Carrd](https://plugins.carrd.co/assets/images/image26.gif?v=00c17393)
+
+*   FREE
+
+### Animated gradient buttons
+
+Native Carrd buttons with animated gradient background colors.
+
+*   [View demo](https://animatedgradientbuttons.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/5834f223aef2fe56)
+
+🚨 You'll need to be on the Pro Plus plan (with embeds feature) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.For a Pro Standard-compatible template, [download it here](https://carrd.co/buy/ea9799236e145e37).
+
+*   FREE
+
+### Interactive background
+
+An interactive background of particles & polygons with physics effect.
+
+*   [View demo](https://interactivebackground.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/6e365c26ba0c7e93)
+
+🚨 You'll need to be on at least the Pro Standard plan (with embeds feature) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+![Image 23: Screen recording of interactive background plugin on Carrd](https://plugins.carrd.co/assets/images/image23.gif?v=00c17393)
+
+![Image 24: Screenshot of startup bundle of Carrd plugins](https://plugins.carrd.co/assets/images/image09.jpg?v=00c17393)
+
+*   PAID
+
+### Startup bundle
+
+**A Carrd plugins bundle for startups and small-medium businesses**The bundle contains a mix of paid and free Carrd plugins to 10x power up your business website:**Paid plugins**
+
+ • [Mega navbar](https://meganavbar.carrd.co/) ($30)
+
+ • [Video button](https://videobutton.carrd.co/) ($30)
+
+ • [Testimonial slider](https://testimonial.carrd.co/) ($15)
+
+ • ✨_Bonus_ - [Responsive background image](https://responsivebackgroundimage.carrd.co/) - a new & complementary plugin that's never been released previously. Only available in this bundle. Set different background images (or same background images of different size/aspect ratio) for your Carrd site.**Free plugins**
+
+ • [Gradient text](https://gradienttext.carrd.co/)
+
+ • [Pricing tables](https://pricingtables.carrd.co/)
+
+ • [Animated accordion FAQs](https://animatedaccordionfaqs.carrd.co/)
+
+* * *
+
+Buy this plugin now at $75.
+
+*   [BUY NOW](https://payhip.com/b/bvI6M/)
+
+🚨You'll need to be on at least the Pro Plus plan (with embeds feature) to use some of the plugins. Upon payment, you will receive a .txt file with the code for the plugin. Copy and paste the code from downloaded file directly into an embed element in your Carrd site. Tutorial walk-through PDF guide included for paid plugins only. Single license (original price) = $75. Unlimited license (original price) = $750.
+
+*   FREE
+
+### Snow fall confetti animation
+
+Christmas is coming! 🎄 This plugin adds a snow fall animation (like confetti) to your Carrd site, for that celebratory white Christmas vibe ☃️❄️
+
+*   [View demo](https://snowconfetti.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/fc6e1b4f6822ccaf)
+
+🚨 You'll need to be on at least the Pro Standard plan (with embeds feature) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+![Image 25: Screen recording of snow fall confetti animation Carrd plugin](https://plugins.carrd.co/assets/images/image12.gif?v=00c17393)
+
+![Image 26: Screen recording of copyright year Carrd plugin](https://plugins.carrd.co/assets/images/image30.jpg?v=00c17393)
+
+*   FREE
+
+### Auto-update copyright year
+
+A Carrd plugin where the copyright year auto-updates. This is done using a native Carrd text element to set the auto-updating copyright year – that means you can edit the style of the text easily without code. Just type  normally and it changes to the current year automagically.
+
+*   [View demo](https://copyrightyear.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/291b644125a83931)
+
+🚨 You'll need to be on at least the Pro Plus plan (with embeds feature) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+*   FREE
+
+### Testimonial tweets
+
+A Carrd plugin template for displaying a wall of selected tweets. You can use it to showcase any social proof, customer testimonials or reviews from Twitter.The tweets section is lazy loading, meaning it displays only when the visitor scrolls to the tweets section. This helps your visitor see your site fast on initial page load. Example below:
+
+*   [View demo](https://testimonialtweets.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/6d6ebd9910d6b5d2)
+
+🚨 You'll need to be on at least the Pro Standard plan (with embeds feature) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+![Image 27: Screen recording of the testimonial tweets demo site.](https://plugins.carrd.co/assets/images/image31.gif?v=00c17393)
+
+![Image 28: Screen recording of password-protected Carrd section](https://plugins.carrd.co/assets/images/image22.gif?v=00c17393)
+
+*   FREE
+
+### Password-protected section
+
+A Carrd plugin template for a password-protecting section(s) in Carrd. Demo shows the `/#pro` section being password-protected.✨ New feature: Control access to a Section by requiring both username and password. See `/#customer01` section.🚨 NOTE: This is only client-side protection. Anyone who's somewhat familiar with coding can view source and see it. To properly protect your page, please use a secured connection with your server.
+
+*   [View demo](https://passwordsection.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/3181b50de00a69b8)
+
+🚨 You'll need to be on at least the Pro Plus plan (with embeds feature) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+*   FREE
+
+### Carousel slider
+
+A carousel slider Carrd plugin for creating a carousel slideshow. Delicious cookies not included. 🍪
+
+*   [View demo](https://carouselslider.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/c7b8e467712fd12f)
+
+🚨 You'll need to be on at least the Pro Standard plan (with embeds feature) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+![Image 29: Screen recording of carousel slider Carrd plugin](https://plugins.carrd.co/assets/images/image35.gif?v=00c17393)
+
+![Image 30: Screen recording of an infinite logo carousel slider Carrd plugin](https://plugins.carrd.co/assets/images/image34.gif?v=00c17393)
+
+*   FREE
+
+### Logo carousel
+
+An infinite logo carousel in the style of a ticker tape to showcase the company/brand logos associated with your website.
+
+*   [View demo](https://logocarousel.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/6bad0add66fc27dd)
+
+🚨 You'll need to be on at least the Pro Standard plan (with embeds feature) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+*   FREEMIUM
+
+### Dark mode pro
+
+A freemium Carrd plugin template for a dark mode toggle button.Download the free, lite version (with less features) to give it a try before deciding!
+
+*   [View demo](https://darkmodepro.carrd.co/)
+*   [Try free version](https://darkmodefree.carrd.co/)
+
+* * *
+
+Buy this plugin now at $30.
+
+*   [BUY NOW](https://pluginsforcarrd.lemonsqueezy.com/checkout/buy/b15519d4-0efe-4b05-a6a1-ca671144fd3d)
+
+🚨You'll need to be on at least the Pro Plus plan (with embeds feature) to use this plugin. Upon payment, you will receive a .txt file with the code for the plugin. Copy and paste the code from downloaded file directly into an embed element in your Carrd site. Tutorial walk-through PDF guide included. Single license (original price) = $30. Unlimited license (original price) = $300.
+
+![Image 31: Screen recording of dark mode pro Carrd plugin](https://plugins.carrd.co/assets/images/image33.gif?v=00c17393)
+
+![Image 32: Screen recording of text marquee Carrd plugin](https://plugins.carrd.co/assets/images/image38.gif?v=00c17393)
+
+*   FREE
+
+### Marquee text
+
+A marquee of scrolling text that repeats itself, ticker tape style. Nostalgic, isn't it? 😉
+
+*   [View demo](https://marquee.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/aeda15b86d3655b6)
+
+🚨 You'll need to be on at least the Pro Standard plan (with embeds feature) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+*   FREE
+
+### Background image sections
+
+Set up different fullscreen background images for different Sections in your Carrd site.
+
+*   [View demo](https://backgroundimagesections.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/6a5311e42e9c405a)
+
+🚨 You'll need to be on at least the Pro Standard plan (with embeds feature) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+![Image 33: Screen recording of background image sections Carrd plugin](https://plugins.carrd.co/assets/images/image37.gif?v=00c17393)
+
+![Image 34: Screen recording of randomizer Carrd plugin](https://plugins.carrd.co/assets/images/image24.gif?v=00c17393)
+
+*   PAID
+
+### Randomizer
+
+A premium Carrd plugin template to show a random item out of a list of text items, or just about anything.
+
+*   [View demo](https://randomizerplugin.carrd.co/)
+
+* * *
+
+Buy this plugin now at $30.
+
+*   [BUY NOW](https://pluginsforcarrd.lemonsqueezy.com/checkout/buy/c57e1e41-138b-45f9-ab13-76ef9a8d7dc0/)
+
+🚨You'll need to be on at least the Pro Plus plan (with embeds feature) to use this plugin. Upon payment, you will receive a .txt file with the code for the plugin. Copy and paste the code from downloaded file directly into an embed element in your Carrd site. Tutorial walk-through PDF guide included. Single license (original price) = $30. Unlimited license (original price) = $300.
+
+*   FREE
+
+### Typewriter text
+
+A free Carrd plugin template that shows a typewriter text animation.
+
+*   [View demo](https://typewritertext.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/89cfdb16bb8e4626)
+
+🚨 You'll need to be on at least the Pro Standard plan (with embeds feature) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+![Image 35: Screen recording of typewriter text Carrd plugin](https://plugins.carrd.co/assets/images/image39.gif?v=00c17393)
+
+![Image 36: Screen recording of roll up text animation Carrd plugin](https://plugins.carrd.co/assets/images/image41.gif?v=00c17393)
+
+*   FREE
+
+### Roll up text animation
+
+A free Carrd plugin template for roll up and down text animation.
+
+*   [View demo](https://rolluptextanimation.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/86217ae687a399d8)
+
+🚨 You'll need to be on at least the Pro Standard plan (with embeds feature) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+*   FREE
+
+### Copy to clipboard button
+
+A free Carrd plugin template where you click on a native Carrd button to copy a discount/promo code, email address, telephone number, or any text you want, to clipboard.
+
+*   [View demo](https://copytoclipboardbutton.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/7c7e6010d923c5aa)
+
+🚨 You'll need to be on at least the Pro Plus plan (with Advanced Settings and Embeds feature) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+![Image 37: Screen recording of copy to clipboard Carrd plugin template](https://plugins.carrd.co/assets/images/image43.gif?v=00c17393)
+
+![Image 38: Screenshot of timeline diagram Carrd plugin](https://plugins.carrd.co/assets/images/image44.jpg?v=00c17393)
+
+*   FREE
+
+### Timeline diagram
+
+A free Carrd plugin template for showing a timeline diagram. Use it for SaaS changelogs and your personal resumes.
+
+*   [View demo](https://timelinediagram.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/f611626c0bd64c42)
+
+🚨 You'll need to be on at least the Pro Standard plan (with embeds feature) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+*   FREE
+
+### Background video sections
+
+A free Carrd plugin template to set up different fullscreen background videos for different Sections.
+
+*   [View demo](https://backgroundvideosections.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/32ac7da393e4bca7)
+
+🚨 You'll need to be on at least the Pro Standard plan or higher (with Video Uploads and Embeds features) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+![Image 39: Screen recording of background video sections Carrd plugin template](https://plugins.carrd.co/assets/images/image45.gif?v=00c17393)
+
+![Image 40: Screenshot of A/B testing sections Carrd plugin](https://plugins.carrd.co/assets/images/image47.gif?v=00c17393)
+
+*   FREE
+
+### A/B testing sections
+
+A free Carrd plugin template for rudimentary A/B testing that redirects users to different Sections to test different marketing copy & designs to see which converts better.The code is pretty basic, so no analytics or anything fancy. Just plain redirect with equal distribution.
+
+*   [View demo](https://a-b-testing.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/ac9bb0dac5cd8442)
+
+🚨 You'll need to be on at least the Pro Plus plan (with Advanced Settings and Embeds features) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+*   FREE
+
+### Redirect plugin
+
+A free Carrd plugin template to redirect your old Carrd site to a new URL.
+
+*   [View demo](https://redirectplugin.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/7ad3017538f471a0)
+
+🚨 You'll need to be on at least the Pro Standard plan or higher (with Embeds feature) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+![Image 41: Screen recording of redirect Carrd plugin template](https://plugins.carrd.co/assets/images/image48.gif?v=00c17393)
+
+![Image 42: Screenshot of translate Carrd plugin](https://plugins.carrd.co/assets/images/image49.gif?v=00c17393)
+
+*   FREE
+
+### Translate plugin
+
+A free Carrd plugin template to translate your Carrd site to any language, using Google Translate.
+
+*   [View demo](https://translateplugin.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/28ce4cc6464bf913)
+
+🚨 You'll need to be on at least the Pro Standard plan (with Embeds features) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+*   FREE
+
+### Auto-update age plugin
+
+A free Carrd plugin template to auto-update your age or any age-related number, for your personal site, company about page, or event.
+
+*   [View demo](https://autoupdateage.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/70fd769c9c08f5af)
+
+🚨 You'll need to be on at least the Pro Plus plan (with Advanced Settings and Embeds features) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+![Image 43: Screen recording of redirect Carrd plugin template](https://plugins.carrd.co/assets/images/image50.jpg?v=00c17393)
+
+![Image 44: Screenshot of custom icon Carrd plugin](https://plugins.carrd.co/assets/images/image51.jpg?v=00c17393)
+
+*   FREE
+
+### Custom icon
+
+A free Carrd plugin template to add your own custom icon to your Carrd site.
+
+*   [View demo](https://customicon.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/2a1e855a95716e86)
+
+🚨 You'll need to be on at least the Pro Standard plan (with Embeds features) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+*   FREE
+
+### Custom audio player plugin
+
+A free Carrd plugin template to add a Spotify-inspired custom audio player into your Carrd site.
+
+*   [View demo](https://customaudioplayer.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/f20234ba29146096)
+
+🚨 You'll need to be on at least the Pro Standard plan (with Embeds features) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+![Image 45: Screen recording of custom audio player Carrd plugin template](https://plugins.carrd.co/assets/images/image52.gif?v=00c17393)
+
+![Image 46: Screenshot of scroll to popup Carrd plugin](https://plugins.carrd.co/assets/images/image36.gif?v=00c17393)
+
+*   FREE
+
+### Scroll to popup
+
+A free Carrd plugin template for a modal popup that pops up when you scroll to a certain position on your Carrd site.
+
+ Great for email newsletter sign-up popups, call-to-actions.
+
+*   [View demo](https://scrolltopopup.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/c815557141182968)
+
+🚨 You'll need to be on at least the Pro Standard plan (with Embeds features) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+*   FREE
+
+### Custom loader
+
+A free Carrd plugin template to add a custom page loader to your Carrd sites. Add your own brand/logo as the loader.
+
+*   [View demo](https://customloader.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/e72746bdd10161c0)
+
+🚨 You'll need to be on at least the Pro Standard plan (with Embeds features) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+![Image 47: Screen recording of custom loader Carrd plugin template](https://plugins.carrd.co/assets/images/image32.gif?v=00c17393)
+
+![Image 48: Screenshot of in-app redirect Carrd plugin](https://plugins.carrd.co/assets/images/image55.gif?v=00c17393)
+
+*   FREE
+
+### In-app redirect
+
+A free Carrd plugin template for in-app browser redirects, for password-protected Carrd sites.In-app browsers for some apps (like Instagram) have strict policy where they actively blocks popups like alert boxes. This means the password protect feature for Carrd sites won't work when on in-app browsers on Instagram. This redirect plugin is a workaround for that.
+
+*   [View demo](https://in-app-redirect.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/caf14d65af740478)
+
+🚨 You'll need to be on at least the Pro Standard plan (with Embeds features) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+*   FREE
+
+### Fireworks
+
+A free Carrd plugin template for adding fireworks to your Carrd site. Try moving or clicking your mouse around the site - the fireworks follows you!
+
+*   [View demo](https://fireworksplugin.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/599cea2428af201b)
+
+🚨 You'll need to be on at least the Pro Standard plan (with Embeds features) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+![Image 49: Screen recording of fireworks Carrd plugin template](https://plugins.carrd.co/assets/images/image56.gif?v=00c17393)
+
+![Image 50: Screenshot of blog Carrd plugin](https://plugins.carrd.co/assets/images/image57.gif?v=00c17393)
+
+*   FREE
+
+### Blog plugin
+
+A free Google Docs to Carrd blog plugin template for adding a basic, text-only blog to your Carrd site.
+
+*   [View demo](https://blogplugin.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/909f03d6340649cc)
+
+🚨 You'll need to be on at least the Pro Standard plan (with Embeds features) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+*   FREE
+
+### Affiliate commission calculator
+
+A free Carrd plugin template to calculate to let your users calculate the commission they get from your affiliate program.
+
+*   [View demo](https://commissioncalculator.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/94eab188de3430ef)
+
+🚨 You'll need to be on at least the Pro Standard plan (with Embeds features) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+![Image 51: Screen recording of commission calculator Carrd plugin template](https://plugins.carrd.co/assets/images/image58.gif?v=00c17393)
+
+![Image 52: Screenshot of Google Sheets to Carrd table plugin Carrd template](https://plugins.carrd.co/assets/images/image59.gif?v=00c17393)
+
+*   FREE
+
+### Google Sheets → Carrd table
+
+A free Carrd plugin template to sync/update your Carrd table via a Google Sheets spreadsheet.
+
+*   [View demo](https://sheet2table.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/1bd46a2f61c3f415)
+
+🚨 You'll need to be on at least the Pro Standard plan (with Embeds features) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+*   FREE
+
+### Glitch text effect
+
+A free Carrd plugin template for glitching, scrambled text effect. There's [13 types of glitch text](https://glitchtext.carrd.co/#allglitchtext) to choose from.
+
+*   [View demo](https://glitchtext.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/7692c211e340e5a1)
+
+🚨 You'll need to be on at least the Pro Standard plan (with Embeds features) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+![Image 53: Screen recording of glitch text Carrd plugin template](https://plugins.carrd.co/assets/images/image60.gif?v=00c17393)
+
+![Image 54: Screenshot of embed pdf plugin Carrd template](https://plugins.carrd.co/assets/images/image61.gif?v=00c17393)
+
+*   FREE
+
+### Embed PDFs
+
+A free Carrd plugin template to embed a PDF doc hosted elsewhere (like say, on Google Drive).
+
+*   [View demo](https://embedpdf.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/f5754dccb57e4046)
+
+🚨 You'll need to be on at least the Pro Standard plan (with Embeds features) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+*   FREE
+
+### Custom button icon
+
+A free Carrd plugin template to add custom button icons to your Carrd buttons.
+
+*   [View demo](https://custombuttonicon.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/e641d2f523473894)
+
+🚨 You'll need to be on at least the Pro Standard plan (with Embeds features) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+![Image 55: Screen recording of custom button icon Carrd plugin template](https://plugins.carrd.co/assets/images/image62.gif?v=00c17393)
+
+![Image 56: Screenshot of custom fonts plugin Carrd template](https://plugins.carrd.co/assets/images/image63.gif?v=00c17393)
+
+*   FREE
+
+### Custom fonts
+
+A free Carrd plugin template to add your own custom fonts.
+
+*   [View demo](https://customfontsplugin.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/780626e841116dae)
+
+🚨 You'll need to be on at least the **Pro Plus** plan (with access to Embeds and Advanced Settings like adding a class) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+*   FREE
+
+### Native popup
+
+A free Carrd plugin template for native popup modal. Works with existing native elements in Carrd, no embed code. Works even on the free Basic plan!
+
+*   [View demo](https://nativepopup.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/7fdd61fab061cdd2)
+
+🚨 No Pro plan required to access this shared template. Works on the free Basic plan. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+![Image 57: Screen recording of native popup Carrd plugin template](https://plugins.carrd.co/assets/images/image53.gif?v=00c17393)
+
+![Image 58: Screenshot of video slider plugin Carrd template](https://plugins.carrd.co/assets/images/image68.gif?v=00c17393)
+
+*   FREE
+
+### Video slider
+
+A free Carrd plugin template to add your own custom fonts.
+
+*   [View demo](https://videoslider.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/d01996af95fd431c)
+
+🚨 You'll need to be on at least the Pro Standard plan (with Embeds features) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+*   FREE
+
+### Top banner
+
+A free Carrd plugin template for making a sticky top banner. Great for marketing promos like Black Friday, announcements or notifications.
+
+*   [View demo](https://topbanner.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/bec2e08f11b10708)
+
+🚨 You'll need to be on at least the Pro Standard plan (with Embeds features) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+![Image 59: Screenshot of top banner Carrd plugin template](https://plugins.carrd.co/assets/images/image69.jpg?v=00c17393)
+
+![Image 60: Screenshot of video slider plugin Carrd template](https://plugins.carrd.co/assets/images/image02.gif?v=00c17393)
+
+*   FREE
+
+### .webp images
+
+A FREE Carrd plugin template to use externally hosted images and hotlink them inside Image elements in your Carrd site. Yes, that means you can use your own webp. and .avif images in Carrd!
+
+*   [View demo](https://webp-images.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/36cfacbe0a773f8d)
+
+🚨 You'll need to be on Pro Plus plan (with Embeds and Advanced Settings features) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+*   FREE
+
+### Image magnifying glass
+
+A free Carrd plugin template for that magnifying glass effect 🔍 on your product images. Requires Pro Standard.
+
+*   [View demo](https://imagemagnifyingglass.carrd.co/)
+
+* * *
+
+This plugin is FREE to download. Key in "$0" to get it for free, or any goodwill amount you wish.
+
+*   [DOWNLOAD](https://carrd.co/buy/a24b81acb0c94012)
+
+🚨 You'll need to be on at least the Pro Standard plan (with Embeds features) to access this shared template. After you sign up, go to Carrd dashboard ➡️ New site ➡️ Custom tab ➡️ select template.
+
+![Image 61: Screen recording of the image magnifying glass Carrd plugin template - https://imagemagnifyingglass.carrd.co](https://plugins.carrd.co/assets/images/image54.gif?v=00c17393)
+
+*   [Telegram](https://t.me/carrdchat)
+*   [Twitter](https://x.com/pluginsforcarrd)
+*   [Discord](https://discord.gg/FBgyr73y)
+*   [Email](mailto:pluginsforcarrd@gmail.com)
+*   [Document](https://plugins.carrd.co/#blog)
+
+© 2026 Jason's Plugins For Carrd. All rights reserved.
+
+ Made by [@jasonleowsg](https://twitter.com/jasonleowsg). **Not officially affiliated** to Carrd.
+
+🍪 [Cookie](https://plugins.carrd.co/#cookiepolicy) |  🔒[Privacy](https://plugins.carrd.co/#privacypolicy) |  💜 [Carrd referral link](https://try.carrd.co/plugins)

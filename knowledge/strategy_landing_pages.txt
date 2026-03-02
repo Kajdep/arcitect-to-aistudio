@@ -1,0 +1,392 @@
+Title: My step-by-step guide to landing pages that convert
+
+URL Source: https://marketingexamples.com/landing-page/guide
+
+Markdown Content:
+My step-by-step guide to landing pages that convert
+===============
+
+[](https://marketingexamples.com/)
+
+![Image 1: 4 mins](https://ik.imagekit.io/o08ysq9vx/main/lsp.jpg)
+
+![Image 2: 4 mins](https://ik.imagekit.io/o08ysq9vx/main/lsp.jpg)
+My step-by-step guide to landing pages that convert
+===================================================
+
+4 mins
+
+Landing Page
+
+There’s two parts of a landing page: what’s immediately visible (above the fold) and what the user scrolls to (below the fold).
+
+Let's start above the fold. To quote Donald Miller, a caveman should be able to glance at it and immediately grunt back what you offer. Here’s my formula:
+
+1/ Explain the value you provide (title)
+
+2/ Explain how you'll create it (subtitle)
+
+3/ Let the user visualise it (visual)
+
+4/ Make it believable (social proof)
+
+5/ Make taking the next step easy (CTA)
+
+![Image 3: My landing page formula](https://s3.amazonaws.com/harrydry/gdmarketing/lll1.png)
+1/ Title
+--------
+
+There’s one hundred ways to write a great title. I'm going to focus on three.
+
+1/ Explain what you do
+
+When your product is unique all you have to do is explain what you do as simply as possible.
+
+![Image 4: Copywriting fundementals](https://s3.amazonaws.com/harrydry/gdmarketing/lll1a.png)
+2/ Hooks
+
+Most products aren't unique. So a hook adds oomph. The easiest way to write hooks is to address your customer's biggest objection.
+
+![Image 5: How to write hooks copywriting](https://s3.amazonaws.com/harrydry/gdmarketing/lll1b.png)
+3/ Own your niche
+
+Some startups transcend hooks. Another pattern is to own your niche in one line. Write with conviction. You're THE solution.
+
+![Image 6: Copywriting examples](https://s3.amazonaws.com/harrydry/gdmarketing/lll1c.png)
+2/ Subtitle
+-----------
+
+Subtitles are where you get specific. Introduce the product. Explain how it creates the value in your title.
+
+![Image 7: How to write a subtitle](https://s3.amazonaws.com/harrydry/gdmarketing/lll2.png)
+3/ Visual
+---------
+
+Show off your product in all its glory. The goal is to get as close to reality as possible.
+
+Don't show me fancy illustrations. Show me your product. Or even better, your product in action.
+
+![Image 8: Landing page great images](https://s3.amazonaws.com/harrydry/gdmarketing/lll3.jpg)
+4/ Social Proof
+---------------
+
+Social proof (above the fold) adds instant credibility to the value you're promising.
+
+Take Privy for example. Any startup can write “How small brands sell more online”. But it's their “18,000+ reviews” that make you believe it.
+
+![Image 9: Above the fold social proof](https://s3.amazonaws.com/harrydry/gdmarketing/lll4.png)
+5/ CTA
+------
+
+Your CTA makes taking the next step easy.
+
+Most buttons emphasise action: Sign Up, Start Trial etc. Here's three more compelling CTA types.
+
+1/ Call to value
+
+Buttons which emphasise “value” over “action” usually perform better. The trick is to fulfil the value your title promises.
+
+![Image 10: Call to action](https://s3.amazonaws.com/harrydry/gdmarketing/lll5a.png)
+2/ Objection handle
+
+Add a few words to your CTA to handle the user's biggest objection to clicking.
+
+![Image 11: Objection handl](https://s3.amazonaws.com/harrydry/gdmarketing/lll5b.png)
+3/ Email capture + CTA
+
+Pair email capture with your CTA to make signing up as easy as possible.
+
+This doesn't mean sacrificing customer info. You can collect during onboarding.
+
+“Above the fold” recap
+----------------------
+
+In five seconds customers try to establish whether or not you can help them. Make their life easy. Clarity over creativity.
+
+1/ Explain the value you provide (title)
+
+2/ Explain how you'll create it (subtitle)
+
+3/ Let the user visualise it (visual)
+
+4/ Make it believable (social proof)
+
+5/ Make taking the next step easy (CTA)
+
+![Image 12: Above the fold landing page examples](https://s3.amazonaws.com/harrydry/gdmarketing/lll5d.jpg)
+“Below the fold”
+----------------
+
+Above the fold you earn the customer's attention.Below the fold you earn the sale. Here's the last five steps:
+
+6/ Make the value concrete (features and objections)
+
+7/ Inspire action (social proof)
+
+8/ Tie up loose ends (FAQ)
+
+9/ Repeat your call to action (2nd CTA)
+
+10/ Make yourself memorable (Founder's note)
+
+6/ Features and Objections
+--------------------------
+
+The first thing you do below the fold is make concrete the value you promise above the fold.
+
+Take Riverside for example. Their title promises “podcasts that look and sound amazing”. Their first two features make this promise concrete.
+
+![Image 13: Landing page features](https://s3.amazonaws.com/harrydry/gdmarketing/lll6a.png)
+The second thing you do is handle your customer's biggest objections. This means talking to customers.
+
+Group together reoccurring objections. Use their own words to handle them.
+
+![Image 14: Handle landing page objections](https://s3.amazonaws.com/harrydry/gdmarketing/lll6b.png)
+7/ More social proof
+--------------------
+
+Above the fold social proof is about credibility. Below the fold social proof is about inspiring action. It's a free pass to sell your product.
+
+Use existing customers to bring to life the value you promise.
+
+• “Get a smile you love” ⟶ Customers smiling
+
+• “Email reinvented” ⟶ Customers describing the difference
+
+• “How small brands sell more” ⟶ Sales numbers
+
+![Image 15: Landing Page social proof](https://s3.amazonaws.com/harrydry/gdmarketing/lll7.jpg)
+8/ FAQ
+------
+
+There's going to be features and objections you want to mention that don't fit in neatly above. This is where your FAQ comes in.
+
+Write them down. Reframe into questions and answers.
+
+![Image 16: Landing Page FAQs](https://s3.amazonaws.com/harrydry/gdmarketing/lll8.png)
+9/ 2nd CTA
+----------
+
+We've done the hard selling. It's time for our 2nd CTA.
+
+This time we've got the luxury of space. So instead of dropping one measly button remind the customer why they're clicking.
+
+![Image 17: Landing Page CTA](https://s3.amazonaws.com/harrydry/gdmarketing/lll9.png)
+10/ Founder's note
+------------------
+
+Finally, you leave the customer with a story that makes you easy to sum up.
+
+1/ Put yourself in their shoes
+
+2/ Explain their problem
+
+3/ Take ownership of it
+
+4/ Show the happy ending
+
+You're walking them down a path they'll want to walk themselves. Oh, and people buy from people.
+
+![Image 18: Privy landing page](https://s3.amazonaws.com/harrydry/gdmarketing/lll10.png)
+Putting it all together
+-----------------------
+
+1/ Explain the value you provide (title)
+
+2/ Explain how you'll create it (subtitle)
+
+3/ Let the user visualise it (visual)
+
+4/ Make it believable (social proof)
+
+5/ Make taking the next step easy (CTA)
+
+6/ Make the value concrete (features and objections)
+
+7/ Bring to life your offer (social proof)
+
+8/ Tie up loose ends (FAQ)
+
+9/ Repeat your call to action (2nd CTA)
+
+10/ Make yourself memorable (Founder's note)
+
+![Image 19: My landing page formula](https://s3.amazonaws.com/harrydry/gdmarketing/lll11.png)
+One last thing
+--------------
+
+Your landing page is your sales pitch. Never forget this. Examine each element and ask:
+
+Would this help me sell if I met the customer in person?
+
+If not, remove it. If you don't know go out and sell to customers in person.
+
+You'll learn that fancy words and random images of people shaking hands don't get you far. More importantly, you'll learn the attitude of your customer and the words you need to convince them.
+
+* * *
+
+Phew! That was a long one. Thanks for reading. This is a guide. Not an instruction manual.
+
+Please do share with your pals. I spent goodness knows how many hours on this so it would be nice if a few people read it.
+
+If you found it useful, you'll like my new project [Copywriting Examples](https://marketingexamples.com/inspiration). It's the world's best copy. In one place. 330+ handpicked examples. All free.
+
+If you'd don't want to miss more marketing guides (like this one), please do join my [newsletter](https://marketingexamples.com/newsletter).
+
+Thanks to [Building a Storybrand,](https://www.amazon.com/Building-StoryBrand-Miller-Donald/dp/1400201837) by Donald Miller, [Scientific Advertising](https://www.amazon.com/Scientific-Advertising-Claude-Hopkins/dp/1603866361) by Claude Hopkin's, Julian Shapiro's [landing page guide](https://www.julian.com/guide/growth/landing-pages), and Demand Curve's [Above the fold guide](https://www.demandcurve.com/playbooks/above-the-fold) where I got some ideas from. All great resources.
+
+— Harry
+
+[![Image 20: Logo](https://ik.imagekit.io/o08ysq9vx/mebits/q1.png)](https://marketingexamples.com/inspiration)
+
+[![Image 21: Logo](https://ik.imagekit.io/o08ysq9vx/mebits/q1.png)](https://marketingexamples.com/)
+
+[Content](https://marketingexamples.com/content)[SEO](https://marketingexamples.com/seo)[Sales](https://marketingexamples.com/sales)[Social](https://marketingexamples.com/social)[Ads](https://marketingexamples.com/ads)
+
+[Copywriting](https://marketingexamples.com/copywriting)[Landing Page](https://marketingexamples.com/landing-page)
+
+[Retention](https://marketingexamples.com/retention)[Brand](https://marketingexamples.com/brand)[Referral](https://marketingexamples.com/referral)[Creative](https://marketingexamples.com/creative)
+
+![Image 22: Mixtapes](https://ik.imagekit.io/o08ysq9vx/mebits/tape.png)
+
+[![Image 23](https://ik.imagekit.io/o08ysq9vx/mebits/tmm5.svg)](https://marketingexamples.com/newsletter)
+
+![Image 24](https://ik.imagekit.io/o08ysq9vx/mebits/stars2.svg)
+
+“#1 Marketing Newsletter”
+
+Read by 130k
+
+[](https://marketingexamples.com/)
+
+Yes Please :)
+
+[Copywriting Examples](https://marketingexamples.com/inspiration)[](https://www.instagram.com/marketing_examples)[](https://www.linkedin.com/in/harrydry/)[](https://twitter.com/harrydry)
+
+[![Image 25: Learn Copywriting — Harry Dry](https://ik.imagekit.io/o08ysq9vx/roast/fcc.jpg)](https://www.youtube.com/watch?v=TUMjnmfsPeM)
+
+[![Image 26: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/zc9.jpg) #### Same interview. 700x reach. 30 secs Social](https://marketingexamples.com/social/zero-click)[![Image 27: 2 mins](https://ik.imagekit.io/o08ysq9vx/main/ketones30.jpg) #### Posting seltzer. Making money. 2 mins Creative](https://marketingexamples.com/creative/ketones)[![Image 28: 2 min](https://ik.imagekit.io/o08ysq9vx/main/lera.jpg) #### The saleswoman closing 33% of cold pitches 2 min Sales](https://marketingexamples.com/sales/lera)[![Image 29: 2 mins](https://ik.imagekit.io/o08ysq9vx/main/pizza9.jpg) #### A full-time “pizza influencer” 2 mins Content](https://marketingexamples.com/content/pizza-influencer)[![Image 30: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/promise9.jpg) #### One of these videos has 18M views 30 secs Copywriting](https://marketingexamples.com/copywriting/promise)[![Image 31: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/trial30.jpg) #### Should you offer a free trial? 30 secs Landing Page](https://marketingexamples.com/landing-page/trial)[![Image 32: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/uglyads.jpg) #### “Make Ugly Ads” 30 secs Ads](https://marketingexamples.com/ads/ugly)[![Image 33: 2 mins](https://ik.imagekit.io/o08ysq9vx/main/tabs11.jpg) #### The chocolate that goes viral every day 2 mins Ads](https://marketingexamples.com/ads/tabs)[![Image 34: 1 min](https://ik.imagekit.io/o08ysq9vx/main/tropicana1.jpg) #### This rebrand cost Tropicana $55M 1 min Brand](https://marketingexamples.com/brand/tropicana)[![Image 35: 1 min](https://ik.imagekit.io/o08ysq9vx/main/rows30.jpg) #### Rows' homepage test that doubled conversions 1 min Landing Page](https://marketingexamples.com/landing-page/rows)[![Image 36: 2 min](https://ik.imagekit.io/o08ysq9vx/main/photoshop30.jpg) #### Adobe's Perfect TikTok 2 min Ads](https://marketingexamples.com/ads/adobe)[![Image 37: 2 mins](https://ik.imagekit.io/o08ysq9vx/main/bou9.jpg) #### Bou's Near-Perfect Google ad 2 mins Copywriting](https://marketingexamples.com/copywriting/bou)[![Image 38: 2 min](https://ik.imagekit.io/o08ysq9vx/main/loom4.jpg) #### How Loom Created a Category 2 min Brand](https://marketingexamples.com/brand/loom)[![Image 39: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/naming2.jpg) #### Four (not boring) ways to name a new product line 30 secs Copywriting](https://marketingexamples.com/copywriting/naming)[![Image 40: 2 mins](https://ik.imagekit.io/o08ysq9vx/main/jc31.jpg) #### The cold email that started a $100M / yr company 2 mins Sales](https://marketingexamples.com/sales/jason-cohen)[![Image 41: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/reforge1.jpg) #### Reforge and the Strategic Use of Language 30 secs Brand](https://marketingexamples.com/brand/reforge)[![Image 42: 3 mins](https://ik.imagekit.io/o08ysq9vx/main/erd.png) #### One line. Eight Rhetorical Devices. 3 mins Copywriting](https://marketingexamples.com/copywriting/rhetorical-devices)[![Image 43: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/cta.jpg) #### Four ways to write a CTA 30 secs Landing Page](https://marketingexamples.com/landing-page/cta)[![Image 44: 1 min](https://ik.imagekit.io/o08ysq9vx/main/raffle.jpg) #### I love this DTC retention strategy 1 min Retention](https://marketingexamples.com/retention/raffle)[![Image 45: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/pressb30.jpg) #### “Press B anytime to Buy” 30 secs Landing Page](https://marketingexamples.com/landing-page/press-b)[![Image 46: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/woolyhats.jpg) #### Innocent’s Wooly Hats 30 secs Creative](https://marketingexamples.com/creative/wooly-hats)[![Image 47: 1 min](https://ik.imagekit.io/o08ysq9vx/main/blinkist3.jpg) #### I love Blinkist's free trial paywall 1 min Landing Page](https://marketingexamples.com/landing-page/blinkist)[![Image 48: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/adjectives2.jpg) #### “How can I do the ad without any adjectives?” 30 secs Copywriting](https://marketingexamples.com/copywriting/adjectives)[![Image 49: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/upsell30.jpg) #### I love True Classic's upsell 30 secs Landing Page](https://marketingexamples.com/landing-page/upsell)[![Image 50: 1 min](https://ik.imagekit.io/o08ysq9vx/main/subjectlines30.jpg) #### Growth Design's 60% open rate 1 min Content](https://marketingexamples.com/content/subject-lines)[![Image 51: 1 min](https://ik.imagekit.io/o08ysq9vx/main/feast9.jpg) #### Two million clicks from one email 1 min Copywriting](https://marketingexamples.com/copywriting/feastables)[![Image 52: 1 min](https://ik.imagekit.io/o08ysq9vx/main/lizzy2.jpg) #### Lizzy's email worked on me 1 min Sales](https://marketingexamples.com/sales/lizzy)[![Image 53: 1 min](https://ik.imagekit.io/o08ysq9vx/main/swirl9.jpg) #### How the 🌀 took over LinkedIn 1 min Referral](https://marketingexamples.com/referral/the-swirl)[![Image 54: 20 secs](https://ik.imagekit.io/o08ysq9vx/main/viral.jpg) #### How to approach viral content marketing 20 secs Content](https://marketingexamples.com/content/viral)[![Image 55: 2 min](https://ik.imagekit.io/o08ysq9vx/main/skybet30.jpg) #### Sky Bet's Perfect Offer 2 min Copywriting](https://marketingexamples.com/copywriting/sky-bet)[![Image 56: 2 min](https://ik.imagekit.io/o08ysq9vx/main/calvin30.jpg) #### 70% of Calvin Klein's tweets are questions 2 min Social](https://marketingexamples.com/social/calvin-klein)[![Image 57: 1 min](https://ik.imagekit.io/o08ysq9vx/main/caliber30.jpg) #### The most upvoted Reddit ad ever 1 min Ads](https://marketingexamples.com/ads/caliber)[![Image 58: 2 mins](https://ik.imagekit.io/o08ysq9vx/main/chamaripa3.jpg) #### How Chamaripa turned celeb heights into shoe sales 2 mins SEO](https://marketingexamples.com/seo/chamaripa)[![Image 59: 15 secs](https://ik.imagekit.io/o08ysq9vx/main/ctaw9.jpg) #### Three ways to add warmth to your CTA 15 secs Landing Page](https://marketingexamples.com/landing-page/cta-warmth)[![Image 60: 4 mins](https://ik.imagekit.io/o08ysq9vx/main/lsp.jpg) #### My step-by-step guide to landing pages that convert 4 mins Landing Page](https://marketingexamples.com/landing-page/guide)[![Image 61: 2 mins](https://ik.imagekit.io/o08ysq9vx/main/search.jpg) #### Veed, Miro and Canva's strategy in one line 2 mins Content](https://marketingexamples.com/content/search)[![Image 62: 3 mins](https://ik.imagekit.io/o08ysq9vx/main/dream9.jpg) #### “The Dream 100” 3 mins Sales](https://marketingexamples.com/sales/dream-100)[![Image 63: 1 min](https://ik.imagekit.io/o08ysq9vx/main/blue9.jpg) #### Innocent know how to write copy 1 min Social](https://marketingexamples.com/social/innocent)[![Image 64: 3 mins](https://ik.imagekit.io/o08ysq9vx/main/steps30.jpg) #### One thousand replies to cold emails 3 mins Sales](https://marketingexamples.com/sales/step-by-step)[![Image 65: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/barbie.jpg) #### Barbie Newsjacking 30 secs Creative](https://marketingexamples.com/creative/barbie)[![Image 66: 25 secs](https://ik.imagekit.io/o08ysq9vx/main/bcpc2.png) #### How Basecamp makes $99/month feel cheap 25 secs Landing Page](https://marketingexamples.com/landing-page/price-comparison)[![Image 67: 1 min](https://ik.imagekit.io/o08ysq9vx/main/winelist2.jpg) #### Wine List's Counterintuitive Pricing 1 min Landing Page](https://marketingexamples.com/landing-page/wine-list)[![Image 68: 20 secs](https://ik.imagekit.io/o08ysq9vx/main/ppp.jpg) #### My favourite sales email pattern 20 secs Sales](https://marketingexamples.com/sales/ppp)[![Image 69: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/ama.jpg) #### 4 years. 4 AMA's. 1M views. 30 secs Social](https://marketingexamples.com/social/ama)[![Image 70: 2 mins](https://ik.imagekit.io/o08ysq9vx/main/founderbrand.jpg) #### Seven ways to build your “founder brand” 2 mins Social](https://marketingexamples.com/social/founder-brand)[![Image 71: 1 min](https://ik.imagekit.io/o08ysq9vx/main/mimage.png) #### My favourite “Meta Images” 1 min Landing Page](https://marketingexamples.com/landing-page/meta-images)[![Image 72: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/typo9.jpg) #### 10% of ARR from typo domains 30 secs Creative](https://marketingexamples.com/creative/typo-domains)[![Image 73: 1 min](https://ik.imagekit.io/o08ysq9vx/main/fery9.jpg) #### My new favourite agency ad 1 min Ads](https://marketingexamples.com/ads/do-great-work)[![Image 74: 1 min](https://ik.imagekit.io/o08ysq9vx/main/sweetspot1.jpg) #### The content marketing sweet spot 1 min Content](https://marketingexamples.com/content/sweet-spot)[![Image 75: 3 min](https://ik.imagekit.io/o08ysq9vx/main/cognitivebiases2.jpg) #### Nine marketing examples that tap into cognitive biases 3 min Creative](https://marketingexamples.com/creative/cognitive-biases)[![Image 76: 1 min](https://ik.imagekit.io/o08ysq9vx/main/t2ts.jpg) #### The tale of two Twitter strategies 1 min Social](https://marketingexamples.com/social/two-tweets)[![Image 77: 1 min](https://ik.imagekit.io/o08ysq9vx/main/vogue30.jpg) #### How Vogue tapped 5M views from a 3 year old interview 1 min Content](https://marketingexamples.com/content/vogue)[![Image 78: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/stickermule2.jpg) #### Sticker Mule's plain text emails 30 secs Sales](https://marketingexamples.com/sales/sticker-mule)[![Image 79: 1 min](https://ik.imagekit.io/o08ysq9vx/main/openrate.jpg) #### A crash course in improving your open rate 1 min Retention](https://marketingexamples.com/retention/open-rate)[![Image 80: 1 min](https://ik.imagekit.io/o08ysq9vx/main/clips1.jpg) #### How to grow a YouTube channel in 2022 1 min Content](https://marketingexamples.com/content/clips)[![Image 81: 1 min](https://ik.imagekit.io/o08ysq9vx/main/math.jpg) #### Copywriting is more like math than you suspect 1 min Copywriting](https://marketingexamples.com/copywriting/math)[![Image 82: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/doac9.jpg) #### Inside Steven Bartlett's ad library 30 secs Content](https://marketingexamples.com/content/doac)[![Image 83: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/labels2.jpg) #### Don't write “labels”... 30 secs Landing Page](https://marketingexamples.com/landing-page/labels)[![Image 84: 1 min](https://ik.imagekit.io/o08ysq9vx/main/ac30.jpg) #### I love this abandoned cart hook 1 min Sales](https://marketingexamples.com/sales/abandoned-cart)[![Image 85: 10 secs](https://ik.imagekit.io/o08ysq9vx/main/zendesk.jpg) #### My favourite indie rock band 10 secs Creative](https://marketingexamples.com/creative/zendesk)[![Image 86: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/ag9.jpg) #### AG1's welcome offer is idiot-proof 30 secs Brand](https://marketingexamples.com/brand/ag1)[![Image 87: 1 min](https://ik.imagekit.io/o08ysq9vx/main/lordleo30.jpg) #### An influencer ad that doesn't SUCK 1 min Ads](https://marketingexamples.com/ads/leo)[![Image 88: 1 min](https://ik.imagekit.io/o08ysq9vx/main/angostura2.jpg) #### Why is the Angostura bitters label too big? 1 min Creative](https://marketingexamples.com/creative/angostura)[![Image 89: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/messi4.jpg) #### A crafty social media giveaway 30 secs Social](https://marketingexamples.com/social/zero-likes)[![Image 90: 1 min](https://ik.imagekit.io/o08ysq9vx/main/sling1.jpg) #### A brilliant response to Amazon cloning your product 1 min Creative](https://marketingexamples.com/creative/peak-design)[![Image 91: 2 mins](https://ik.imagekit.io/o08ysq9vx/main/jurgen.jpg) #### How Jürgen Klopp makes fans smile 2 mins Brand](https://marketingexamples.com/brand/klopp)[![Image 92: 1 min](https://ik.imagekit.io/o08ysq9vx/main/arcteryx1.jpg) #### Arc'teryx's TikTok Fame 1 min Social](https://marketingexamples.com/social/arcteryx)[![Image 93: 2 mins](https://ik.imagekit.io/o08ysq9vx/main/etsu2.jpg) #### I love Billboards designed for social 2 mins Social](https://marketingexamples.com/social/billboards)[![Image 94: 3 mins](https://ik.imagekit.io/o08ysq9vx/main/chewy.jpg) #### How Chewy delights customers 3 mins Brand](https://marketingexamples.com/brand/chewy)[![Image 95: 3 mins](https://ik.imagekit.io/o08ysq9vx/main/adam.jpg) #### Refactoring UI: A lesson in high prices 3 mins Landing Page](https://marketingexamples.com/landing-page/pricing)[![Image 96: 1 min](https://ik.imagekit.io/o08ysq9vx/main/fast.jpg) #### How brands make friends on Twitter 1 min Social](https://marketingexamples.com/social/fast)[![Image 97: 3 mins](https://ik.imagekit.io/o08ysq9vx/main/giphy.jpg) #### Using GIPHY for free brand awareness 3 mins Content](https://marketingexamples.com/content/giphy)[![Image 98: 40 secs](https://ik.imagekit.io/o08ysq9vx/main/etsu.jpg) #### If you want to grow on social make yourself easy to sum up 40 secs Social](https://marketingexamples.com/social/easy-to-sum-up)[![Image 99: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/toc1.jpg) #### A Table of Contents can work wonders for SEO 30 secs SEO](https://marketingexamples.com/seo/table-of-contents)[![Image 100: 3 mins](https://ik.imagekit.io/o08ysq9vx/main/me.jpg) #### How I got 2,000 new subscribers from Product Hunt 3 mins Social](https://marketingexamples.com/social/product-hunt)[![Image 101: 2 mins](https://ik.imagekit.io/o08ysq9vx/main/cron.jpg) #### Cronitor's Little Side-Project 2 mins SEO](https://marketingexamples.com/seo/cronitor)[![Image 102: 1 min](https://ik.imagekit.io/o08ysq9vx/main/kapwing2.jpg) #### Kapwing's YouTube strategy 1 min Content](https://marketingexamples.com/content/kapwing-youtube)[![Image 103: 3 mins](https://ik.imagekit.io/o08ysq9vx/main/paul.jpg) #### How I promote my content 3 mins Content](https://marketingexamples.com/content/sharing)[![Image 104: 4 mins](https://ik.imagekit.io/o08ysq9vx/main/otr.jpg) #### The marketing genius of Lil Nas X 4 mins Social](https://marketingexamples.com/social/lil-nas-x)[![Image 105: 4 mins](https://ik.imagekit.io/o08ysq9vx/main/con.jpg) #### My guide to conversational copywriting 4 mins Copywriting](https://marketingexamples.com/copywriting/conversational)[![Image 106: 3 mins](https://ik.imagekit.io/o08ysq9vx/main/do.jpg) #### How to write a landing page title 3 mins Landing Page](https://marketingexamples.com/landing-page/titles)[![Image 107: 1 min](https://ik.imagekit.io/o08ysq9vx/main/foster.jpg) #### People Warm to People, Not Brands 1 min Brand](https://marketingexamples.com/brand/personal)[![Image 108: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/asos1.jpg) #### One Tweet. Eighty media placements. 30 secs Brand](https://marketingexamples.com/brand/asos)[![Image 109: 2 mins](https://ik.imagekit.io/o08ysq9vx/main/gillette1.jpg) #### A simple idea that’s makes Gillette $60M/yr 2 mins Referral](https://marketingexamples.com/referral/gillette)[![Image 110: 6 mins](https://ik.imagekit.io/o08ysq9vx/main/tia1.png) #### My Twitter Inspiration Handbook 6 mins Social](https://marketingexamples.com/social/twitter-inspiration)[![Image 111: 5 mins](https://ik.imagekit.io/o08ysq9vx/main/ct.jpg) #### 17 tips for great copywriting 5 mins Copywriting](https://marketingexamples.com/copywriting/tips)[![Image 112: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/ospa.jpg) #### 27 words that sum up the psychology of copywriting 30 secs Copywriting](https://marketingexamples.com/copywriting/psychology-of-persuasion)[![Image 113: 3 mins](https://ik.imagekit.io/o08ysq9vx/main/grubhub.jpg) #### Grubhub's link building strategy 3 mins SEO](https://marketingexamples.com/seo/grubhub-link-building)[![Image 114: 1 min](https://ik.imagekit.io/o08ysq9vx/main/signal2.jpg) #### Signal's Instagram Ads 1 min Ads](https://marketingexamples.com/ads/signal)[![Image 115: 2 mins](https://ik.imagekit.io/o08ysq9vx/main/pata.jpg) #### Real Marketing 2 mins Brand](https://marketingexamples.com/brand/real)[![Image 116: 2 mins](https://ik.imagekit.io/o08ysq9vx/main/molly.jpg) #### £8k Instagram Giveaway → 1M followers 2 mins Social](https://marketingexamples.com/social/molly-mae)[![Image 117: 4 mins](https://ik.imagekit.io/o08ysq9vx/main/carrie.jpg) #### A crash course in getting press and building links 4 mins SEO](https://marketingexamples.com/seo/digital-pr)[![Image 118: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/neiman.jpg) #### Neiman's magazine ads 30 secs Ads](https://marketingexamples.com/ads/neiman)[![Image 119: 3 mins](https://ik.imagekit.io/o08ysq9vx/main/lad.jpg) #### How LadBaby started a movement 3 mins Brand](https://marketingexamples.com/brand/ladbaby)[![Image 120: 3 mins](https://ik.imagekit.io/o08ysq9vx/main/eoi.png) #### How to build a website which converts email subscribers 3 mins Landing Page](https://marketingexamples.com/landing-page/email-subscribers)[![Image 121: 3 mins](https://ik.imagekit.io/o08ysq9vx/main/dad.jpg) #### A story about my dad and PPC ads 3 mins Ads](https://marketingexamples.com/ads/experiments)[![Image 122: 2 mins](https://ik.imagekit.io/o08ysq9vx/main/tesla.jpg) #### The genius of Tesla's marketing strategy 2 mins Brand](https://marketingexamples.com/brand/tesla)[![Image 123: 1 min](https://ik.imagekit.io/o08ysq9vx/main/taylordle1.jpg) #### Taylordle 1 min Content](https://marketingexamples.com/content/taylordle)[![Image 124: 3 mins](https://ik.imagekit.io/o08ysq9vx/main/annie.jpg) #### Rewriting landing pages with a pro copywriter 3 mins Landing Page](https://marketingexamples.com/landing-page/rewrites)[![Image 125: 3 mins](https://ik.imagekit.io/o08ysq9vx/main/nl3b.jpg) #### How Convert Kit grew from $1.5k to $100k MRR 3 mins Sales](https://marketingexamples.com/sales/convert-kit)[![Image 126: 3 mins](https://ik.imagekit.io/o08ysq9vx/main/michelin.jpg) #### “Michelin Guide” Marketing 3 mins Content](https://marketingexamples.com/content/michelin-guide)[![Image 127: 3 mins](https://ik.imagekit.io/o08ysq9vx/main/ih.jpg) #### Email Segmentation — A practical example 3 mins Retention](https://marketingexamples.com/retention/email-segmentation)[![Image 128: 2 mins](https://ik.imagekit.io/o08ysq9vx/main/cp.jpg) #### Counterpunch like Carl 2 mins Social](https://marketingexamples.com/social/counterpunch)[![Image 129: 2 mins](https://ik.imagekit.io/o08ysq9vx/main/cv.jpg) #### The most creative Coronavirus company pivots 2 mins Creative](https://marketingexamples.com/creative/coronavirus-pivots)[![Image 130: 1 min](https://ik.imagekit.io/o08ysq9vx/main/suster.jpg) #### How a creative Google ad got an investor's attention 1 min Ads](https://marketingexamples.com/ads/creative-google-ad)[![Image 131: 3 mins](https://ik.imagekit.io/o08ysq9vx/main/nn.jpg) #### The genius of no name's brand 3 mins Brand](https://marketingexamples.com/brand/no-name)[![Image 132: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/barilla.jpg) #### Barilla's pasta playlist 30 secs Creative](https://marketingexamples.com/creative/barilla)[![Image 133: 2 mins](https://ik.imagekit.io/o08ysq9vx/main/un.jpg) #### Using Unsplash for brand awareness and backlinks 2 mins SEO](https://marketingexamples.com/seo/unsplash)[![Image 134: 2 mins](https://ik.imagekit.io/o08ysq9vx/main/steve.jpg) #### How Steve Jobs clarified Apple's message 2 mins Copywriting](https://marketingexamples.com/copywriting/think-different)[![Image 135: 2 mins](https://ik.imagekit.io/o08ysq9vx/main/da.jpg) #### Let your customers write your copy for you 2 mins Copywriting](https://marketingexamples.com/copywriting/customers)[![Image 136: 2 mins](https://ik.imagekit.io/o08ysq9vx/main/revchris.jpg) #### How Rev. Chris grew 100k Instagram followers 2 mins Social](https://marketingexamples.com/social/rev-chris)[![Image 137: 3 mins](https://ik.imagekit.io/o08ysq9vx/main/pos.jpg) #### My guide to brand positioning 3 mins Brand](https://marketingexamples.com/brand/positioning)[![Image 138: 1 min](https://ik.imagekit.io/o08ysq9vx/main/nl3a.jpg) #### The Vegetable Name Change 1 min Creative](https://marketingexamples.com/creative/magic-veggies)[![Image 139: 3 mins](https://ik.imagekit.io/o08ysq9vx/main/schulz.jpg) #### The marketing genius of Andrew Schulz 3 mins Content](https://marketingexamples.com/content/andrew-schulz)[![Image 140: 4 mins](https://ik.imagekit.io/o08ysq9vx/main/gl.jpg) #### Growth Loops 4 mins Referral](https://marketingexamples.com/referral/growth-loops)[![Image 141: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/stevenage.jpg) #### Why Burger King sponsored Stevenage F.C. 30 secs Creative](https://marketingexamples.com/creative/stevenage-challenge)[![Image 142: 4 mins](https://ik.imagekit.io/o08ysq9vx/main/fa.jpg) #### My favourite low-budget viral ads 4 mins Ads](https://marketingexamples.com/ads/low-budget)[![Image 143: 3 mins](https://ik.imagekit.io/o08ysq9vx/main/nomad.jpg) #### How Nomad List dominates longer tail keywords 3 mins SEO](https://marketingexamples.com/seo/long-tail-keywords)[![Image 144: 1 min](https://ik.imagekit.io/o08ysq9vx/main/shotoniphone.jpg) #### Apple’s “Shot on iPhone” campaign 1 min Ads](https://marketingexamples.com/ads/shot-on-iphone)[![Image 145: 30 secs](https://ik.imagekit.io/o08ysq9vx/main/dave.jpg) #### Dave Gerhardt's 1 line sales email 30 secs Sales](https://marketingexamples.com/sales/one-line-email)
+
+![Image 146](https://ik.imagekit.io/o08ysq9vx/mebits/jf1.svg)[Content](https://marketingexamples.com/content)[SEO](https://marketingexamples.com/seo)[Sales](https://marketingexamples.com/sales)[Social](https://marketingexamples.com/social)[Ads](https://marketingexamples.com/ads)
+
+![Image 147](https://ik.imagekit.io/o08ysq9vx/mebits/jf2.svg)[Copywriting](https://marketingexamples.com/copywriting)[Landing Page](https://marketingexamples.com/landing-page)
+
+![Image 148](https://ik.imagekit.io/o08ysq9vx/mebits/jf3.svg)[Retention](https://marketingexamples.com/retention)[Brand](https://marketingexamples.com/brand)[Referral](https://marketingexamples.com/referral)[Creative](https://marketingexamples.com/creative)
+
+![Image 149](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/hnb.svg)![Image 150](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/hnbp.png)
+
+Hey, I'm Harry. Every Monday I share:
+
+• 3 short examples
+
+• 2 copywriting tips
+
+• 1 favourite tweet
+
+Marketers voted it the “[#1 marketing newsletter](https://ahrefs.com/blog/best-marketing-newsletters/)”. 130k people enjoy it.
+
+Try it
+
+![Image 151: Dave Gerhadt](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn1.jpg)
+
+“My favourite newsletter on the web”
+
+![Image 152: Dave Gerhadt](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn2.jpg)
+
+“The newsletter is so f***ing great!”
+
+![Image 153: Dave Gerhadt](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn14.jpg)
+
+“Better than my marketing degree”
+
+![Image 154: Dave Gerhadt](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn4.jpg)
+
+“🦄🦄🦄 — Nuff said”
+
+![Image 155: Dave Gerhadt](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn5.jpg)
+
+“The best thing is it works”
+
+![Image 156: Dave Gerhadt](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn6.jpg)
+
+“How is this still free?”
+
+![Image 157: Dave Gerhadt](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn7.jpg)
+
+“A genius that actually gives a sh*t”
+
+![Image 158: Anne-Laure Le-Cnuff](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn8.jpg)
+
+“I have no regrets”
+
+![Image 159: Dave Gerhadt](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn9.jpg)
+
+“Best newsletter I'm subbed to”
+
+![Image 160: Dave Gerhadt](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn10.jpg)
+
+“You ALWAYS find something useful”
+
+![Image 161: Dave Gerhadt](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn11.jpg)
+
+“No fluff marketing. Works right now”
+
+![Image 162: Dave Gerhadt](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn12.jpg)
+
+“Shit you actually want in your inbox”
+
+![Image 163: Dave Gerhadt](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn13.jpg)
+
+“Sadly, there's only one Harry Dry”
+
+![Image 164: Anne-Laure Le-Cnuff](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn3.jpg)
+
+“Most wisdom per newsletter of all time”
+
+![Image 165: Dave Gerhadt](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn15.jpg)
+
+“One of the best marketers I know”
+
+![Image 166: Dave Gerhadt](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn16.jpg)
+
+“One of the best things on the web”
+
+![Image 167: Dave Gerhadt](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn17.jpg)
+
+“I can feel my brain getting smarter”
+
+![Image 168: Anne-Laure Le-Cnuff](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn18.jpg)
+
+“The Sir Alex Ferguson of marketing”
+
+![Image 169: Dave Gerhadt](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn19.jpg)
+
+“I haven't read a bad one yet”
+
+![Image 170: Dave Gerhadt](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn20.jpg)
+
+“I wanna be Harry when I grow up”
+
+![Image 171: Dave Gerhadt](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn21.jpg)
+
+“Gems everywhere”
+
+![Image 172: Dave Gerhadt](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn22.jpg)
+
+“Dangerous in the wrong hands”
+
+![Image 173: Anne-Laure Le-Cnuff](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn23.jpg)
+
+“If you don’t read Marketing Examples you aren’t really a marketer”
+
+![Image 174: Dave Gerhadt](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn24.jpg)
+
+“I literally can't wait for new issues”
+
+![Image 175: Dave Gerhadt](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn25.jpg)
+
+“Multiple notifications so I never miss it”
+
+![Image 176: Dave Gerhadt](https://ik.imagekit.io/o08ysq9vx/cebits/newsletter/photos/hn27.jpg)
+
+“The only newsletter I share with every person that joins my team”
